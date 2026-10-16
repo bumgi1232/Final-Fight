@@ -1,0 +1,1846 @@
+fileFormatVersion: 2
+guid: 1e4f9e429c447dc4284be75e239f6ab1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 119169619678722743
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_0
+  - first:
+      213: 5827457548819099139
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_1
+  - first:
+      213: 3861765577446063607
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_2
+  - first:
+      213: 1153366696135820578
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_3
+  - first:
+      213: 1624744149541952521
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_4
+  - first:
+      213: 2111314828365160462
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_5
+  - first:
+      213: -4994321851676479101
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_6
+  - first:
+      213: -7808524972136080747
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_7
+  - first:
+      213: 6736564221542742697
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_8
+  - first:
+      213: -1374727784948013600
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_9
+  - first:
+      213: -8768026186547341409
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_10
+  - first:
+      213: 9180675504135269538
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_11
+  - first:
+      213: 250717426747344238
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_12
+  - first:
+      213: -7179225559908020727
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_13
+  - first:
+      213: -1753073834100650564
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_14
+  - first:
+      213: -7285205029315321365
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_15
+  - first:
+      213: -150720858467780816
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_16
+  - first:
+      213: 2817794088871156126
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_17
+  - first:
+      213: 1817717662983125532
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_18
+  - first:
+      213: -747888173046909928
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_19
+  - first:
+      213: 3084446001180181394
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_20
+  - first:
+      213: -3065063129396046648
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_21
+  - first:
+      213: -3307304986193122374
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_22
+  - first:
+      213: -4555536526395514803
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_23
+  - first:
+      213: 6237265715104015948
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_24
+  - first:
+      213: -3562981639200405043
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_25
+  - first:
+      213: -1605504231985555010
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_26
+  - first:
+      213: -1590660647786794575
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_27
+  - first:
+      213: -3275309903292321997
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_28
+  - first:
+      213: 4896253977957627626
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_29
+  - first:
+      213: 7609220245933575845
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_30
+  - first:
+      213: -3635174669148384654
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_31
+  - first:
+      213: 6665231869757102717
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_32
+  - first:
+      213: -3530383537380340488
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_33
+  - first:
+      213: 2021521661843694170
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_34
+  - first:
+      213: 1138263395906241792
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_35
+  - first:
+      213: -1143822407439014183
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_36
+  - first:
+      213: -4102981888554255083
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_37
+  - first:
+      213: 3244534621330452677
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_38
+  - first:
+      213: 3120830582848938765
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_39
+  - first:
+      213: 8535586819490041950
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_40
+  - first:
+      213: 3673500505220273190
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_41
+  - first:
+      213: -8454939198888369840
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_42
+  - first:
+      213: 4793023248766115165
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_43
+  - first:
+      213: -1401734105921158841
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_44
+  - first:
+      213: -8519614729273794321
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_45
+  - first:
+      213: 5493785912942292918
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_46
+  - first:
+      213: -8407956685079913909
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_47
+  - first:
+      213: 3695790443777250190
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_48
+  - first:
+      213: 5303526727780126283
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_49
+  - first:
+      213: -907495635837511374
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_50
+  - first:
+      213: -3766426334076042858
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_51
+  - first:
+      213: 6935340039640160496
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_52
+  - first:
+      213: 7601821810318052708
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_53
+  - first:
+      213: 6367296410521173220
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_54
+  - first:
+      213: -8271918355402950890
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_55
+  - first:
+      213: -2697867453217199907
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_56
+  - first:
+      213: -9073086551643296340
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_57
+  - first:
+      213: -4683121104822326254
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_58
+  - first:
+      213: 294446131431189540
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_59
+  - first:
+      213: -8394911579911892631
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_60
+  - first:
+      213: -1043793330790830454
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_61
+  - first:
+      213: -5634184548118617405
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_62
+  - first:
+      213: 3517146981788824007
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_63
+  - first:
+      213: 3496959781678455278
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_64
+  - first:
+      213: -3987010634080425000
+    second: Arcade - Final Fight - Enemies & Bosses - Bred_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 323
+        width: 43
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7baf7f0432067a100800000000000000
+      internalID: 119169619678722743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 324
+        width: 62
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ee705f3c94fd050800000000000000
+      internalID: 5827457548819099139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 325
+        width: 59
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdf089055fb79530800000000000000
+      internalID: 3861765577446063607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 324
+        width: 43
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22501fa36e4910010800000000000000
+      internalID: 1153366696135820578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 326
+        width: 58
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c975c12304c8610800000000000000
+      internalID: 1624744149541952521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 324
+        width: 57
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0068b176a5ec4d10800000000000000
+      internalID: 2111314828365160462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 323
+        width: 63
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3813ad8acba90bab0800000000000000
+      internalID: -4994321851676479101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_7
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 322
+        width: 53
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59adf00c8eb82a390800000000000000
+      internalID: -7808524972136080747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_8
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 322
+        width: 47
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa39a7b7751d7d50800000000000000
+      internalID: 6736564221542742697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 211
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5605bfc5cfbece0800000000000000
+      internalID: -1374727784948013600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 210
+        width: 98
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97d58963a6b15680800000000000000
+      internalID: -8768026186547341409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_11
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 211
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2acec1ecabf486f70800000000000000
+      internalID: 9180675504135269538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_12
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 212
+        width: 89
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e658648db2aba7300800000000000000
+      internalID: 250717426747344238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_13
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 213
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e0743f3644e5c90800000000000000
+      internalID: -7179225559908020727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_14
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 216
+        width: 58
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd0665d2a4dba7e0800000000000000
+      internalID: -1753073834100650564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_15
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 216
+        width: 62
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be165cfdf90c5ea90800000000000000
+      internalID: -7285205029315321365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_16
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 216
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03739c28d2888edf0800000000000000
+      internalID: -150720858467780816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_17
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 216
+        width: 49
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e995c556bc0da1720800000000000000
+      internalID: 2817794088871156126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_18
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 216
+        width: 99
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1aff047594d93910800000000000000
+      internalID: 1817717662983125532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_19
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 106
+        width: 53
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814b2d94ba7fe95f0800000000000000
+      internalID: -747888173046909928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_20
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 105
+        width: 51
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2930835cb472eca20800000000000000
+      internalID: 3084446001180181394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_21
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 107
+        width: 98
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4933eb255b675d0800000000000000
+      internalID: -3065063129396046648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 114
+        width: 122
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abba41e43a71a12d0800000000000000
+      internalID: -3307304986193122374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_23
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 115
+        width: 69
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40e0ee5aab77c0c0800000000000000
+      internalID: -4555536526395514803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_24
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 115
+        width: 69
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c466f761f183f8650800000000000000
+      internalID: 6237265715104015948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_25
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 115
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9883e931fbd8ec0800000000000000
+      internalID: -3562981639200405043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_26
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 131
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb95d17486a18b9e0800000000000000
+      internalID: -1605504231985555010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_27
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 14
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1b97a8196dce9e0800000000000000
+      internalID: -1590660647786794575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_28
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 9
+        width: 44
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f21fc0ff2cb82d0800000000000000
+      internalID: -3275309903292321997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_29
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 10
+        width: 44
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6f14e2d0df2f340800000000000000
+      internalID: 4896253977957627626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_30
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 12
+        width: 44
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aec4909f71699960800000000000000
+      internalID: 7609220245933575845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_31
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 90
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27299ecf5e34d8dc0800000000000000
+      internalID: -3635174669148384654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_32
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 87
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a1c765219af7c50800000000000000
+      internalID: 6665231869757102717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_33
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 87
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcce85a0ee810fc0800000000000000
+      internalID: -3530383537380340488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_34
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 90
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5263ffad33ed0c10800000000000000
+      internalID: 2021521661843694170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_35
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 90
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00542dd178cebcf00800000000000000
+      internalID: 1138263395906241792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_36
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 90
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d62776a4935020f0800000000000000
+      internalID: -1143822407439014183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_37
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 87
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51dbcdcf5b74f07c0800000000000000
+      internalID: -4102981888554255083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_38
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 90
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0bbdd3c07e60d20800000000000000
+      internalID: 3244534621330452677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_39
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 90
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03e2e651ea6f4b20800000000000000
+      internalID: 3120830582848938765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_40
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 90
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50d5352dfe747670800000000000000
+      internalID: 8535586819490041950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_41
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 90
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6245fd71f35eaf230800000000000000
+      internalID: 3673500505220273190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_42
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 90
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051abb448950aaa80800000000000000
+      internalID: -8454939198888369840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_43
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 90
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d94ee004d348240800000000000000
+      internalID: 4793023248766115165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_44
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 90
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7410503e14a0c8ce0800000000000000
+      internalID: -1401734105921158841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_45
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 90
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe02376ea8f34c980800000000000000
+      internalID: -8519614729273794321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_46
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 90
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf68f43e29dd3c40800000000000000
+      internalID: 5493785912942292918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_47
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 15
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ad0f231ffe05b80800000000000000
+      internalID: -8407956685079913909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_48
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 15
+        width: 57
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8350a5d3d51a4330800000000000000
+      internalID: 3695790443777250190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_49
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 74
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ecf1aa579e99940800000000000000
+      internalID: 5303526727780126283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_50
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 74
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23910bef68de763f0800000000000000
+      internalID: -907495635837511374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_51
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 74
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69188bc5437fabbc0800000000000000
+      internalID: -3766426334076042858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_52
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 74
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f89b4365074f3060800000000000000
+      internalID: 6935340039640160496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_53
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 74
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d03d909a81f7960800000000000000
+      internalID: 7601821810318052708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_54
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 74
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecfbb8995e2d5850800000000000000
+      internalID: 6367296410521173220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_55
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 74
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6177c2f051e343d80800000000000000
+      internalID: -8271918355402950890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_56
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 74
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8a6ef58df3f8ad0800000000000000
+      internalID: -2697867453217199907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_57
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 74
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad6de04adbe51280800000000000000
+      internalID: -9073086551643296340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_58
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 74
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c2eeada26320fb0800000000000000
+      internalID: -4683121104822326254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_59
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 74
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ca17d4235161400800000000000000
+      internalID: 294446131431189540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_60
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 74
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961d98e65684f7b80800000000000000
+      internalID: -8394911579911892631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_61
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 74
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e6a43fe73b381f0800000000000000
+      internalID: -1043793330790830454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_62
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 14
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c22562310b5fc1b0800000000000000
+      internalID: -5634184548118617405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_63
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 15
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c13c589b8a6fc030800000000000000
+      internalID: 3517146981788824007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_64
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 32
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee995ccc462b78030800000000000000
+      internalID: 3496959781678455278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Final Fight - Enemies & Bosses - Bred_65
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 40
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db6eefc3fa4ba8c0800000000000000
+      internalID: -3987010634080425000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Arcade - Final Fight - Enemies & Bosses - Bred_0: 119169619678722743
+      Arcade - Final Fight - Enemies & Bosses - Bred_1: 5827457548819099139
+      Arcade - Final Fight - Enemies & Bosses - Bred_10: -8768026186547341409
+      Arcade - Final Fight - Enemies & Bosses - Bred_11: 9180675504135269538
+      Arcade - Final Fight - Enemies & Bosses - Bred_12: 250717426747344238
+      Arcade - Final Fight - Enemies & Bosses - Bred_13: -7179225559908020727
+      Arcade - Final Fight - Enemies & Bosses - Bred_14: -1753073834100650564
+      Arcade - Final Fight - Enemies & Bosses - Bred_15: -7285205029315321365
+      Arcade - Final Fight - Enemies & Bosses - Bred_16: -150720858467780816
+      Arcade - Final Fight - Enemies & Bosses - Bred_17: 2817794088871156126
+      Arcade - Final Fight - Enemies & Bosses - Bred_18: 1817717662983125532
+      Arcade - Final Fight - Enemies & Bosses - Bred_19: -747888173046909928
+      Arcade - Final Fight - Enemies & Bosses - Bred_2: 3861765577446063607
+      Arcade - Final Fight - Enemies & Bosses - Bred_20: 3084446001180181394
+      Arcade - Final Fight - Enemies & Bosses - Bred_21: -3065063129396046648
+      Arcade - Final Fight - Enemies & Bosses - Bred_22: -3307304986193122374
+      Arcade - Final Fight - Enemies & Bosses - Bred_23: -4555536526395514803
+      Arcade - Final Fight - Enemies & Bosses - Bred_24: 6237265715104015948
+      Arcade - Final Fight - Enemies & Bosses - Bred_25: -3562981639200405043
+      Arcade - Final Fight - Enemies & Bosses - Bred_26: -1605504231985555010
+      Arcade - Final Fight - Enemies & Bosses - Bred_27: -1590660647786794575
+      Arcade - Final Fight - Enemies & Bosses - Bred_28: -3275309903292321997
+      Arcade - Final Fight - Enemies & Bosses - Bred_29: 4896253977957627626
+      Arcade - Final Fight - Enemies & Bosses - Bred_3: 1153366696135820578
+      Arcade - Final Fight - Enemies & Bosses - Bred_30: 7609220245933575845
+      Arcade - Final Fight - Enemies & Bosses - Bred_31: -3635174669148384654
+      Arcade - Final Fight - Enemies & Bosses - Bred_32: 6665231869757102717
+      Arcade - Final Fight - Enemies & Bosses - Bred_33: -3530383537380340488
+      Arcade - Final Fight - Enemies & Bosses - Bred_34: 2021521661843694170
+      Arcade - Final Fight - Enemies & Bosses - Bred_35: 1138263395906241792
+      Arcade - Final Fight - Enemies & Bosses - Bred_36: -1143822407439014183
+      Arcade - Final Fight - Enemies & Bosses - Bred_37: -4102981888554255083
+      Arcade - Final Fight - Enemies & Bosses - Bred_38: 3244534621330452677
+      Arcade - Final Fight - Enemies & Bosses - Bred_39: 3120830582848938765
+      Arcade - Final Fight - Enemies & Bosses - Bred_4: 1624744149541952521
+      Arcade - Final Fight - Enemies & Bosses - Bred_40: 8535586819490041950
+      Arcade - Final Fight - Enemies & Bosses - Bred_41: 3673500505220273190
+      Arcade - Final Fight - Enemies & Bosses - Bred_42: -8454939198888369840
+      Arcade - Final Fight - Enemies & Bosses - Bred_43: 4793023248766115165
+      Arcade - Final Fight - Enemies & Bosses - Bred_44: -1401734105921158841
+      Arcade - Final Fight - Enemies & Bosses - Bred_45: -8519614729273794321
+      Arcade - Final Fight - Enemies & Bosses - Bred_46: 5493785912942292918
+      Arcade - Final Fight - Enemies & Bosses - Bred_47: -8407956685079913909
+      Arcade - Final Fight - Enemies & Bosses - Bred_48: 3695790443777250190
+      Arcade - Final Fight - Enemies & Bosses - Bred_49: 5303526727780126283
+      Arcade - Final Fight - Enemies & Bosses - Bred_5: 2111314828365160462
+      Arcade - Final Fight - Enemies & Bosses - Bred_50: -907495635837511374
+      Arcade - Final Fight - Enemies & Bosses - Bred_51: -3766426334076042858
+      Arcade - Final Fight - Enemies & Bosses - Bred_52: 6935340039640160496
+      Arcade - Final Fight - Enemies & Bosses - Bred_53: 7601821810318052708
+      Arcade - Final Fight - Enemies & Bosses - Bred_54: 6367296410521173220
+      Arcade - Final Fight - Enemies & Bosses - Bred_55: -8271918355402950890
+      Arcade - Final Fight - Enemies & Bosses - Bred_56: -2697867453217199907
+      Arcade - Final Fight - Enemies & Bosses - Bred_57: -9073086551643296340
+      Arcade - Final Fight - Enemies & Bosses - Bred_58: -4683121104822326254
+      Arcade - Final Fight - Enemies & Bosses - Bred_59: 294446131431189540
+      Arcade - Final Fight - Enemies & Bosses - Bred_6: -4994321851676479101
+      Arcade - Final Fight - Enemies & Bosses - Bred_60: -8394911579911892631
+      Arcade - Final Fight - Enemies & Bosses - Bred_61: -1043793330790830454
+      Arcade - Final Fight - Enemies & Bosses - Bred_62: -5634184548118617405
+      Arcade - Final Fight - Enemies & Bosses - Bred_63: 3517146981788824007
+      Arcade - Final Fight - Enemies & Bosses - Bred_64: 3496959781678455278
+      Arcade - Final Fight - Enemies & Bosses - Bred_65: -3987010634080425000
+      Arcade - Final Fight - Enemies & Bosses - Bred_7: -7808524972136080747
+      Arcade - Final Fight - Enemies & Bosses - Bred_8: 6736564221542742697
+      Arcade - Final Fight - Enemies & Bosses - Bred_9: -1374727784948013600
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
