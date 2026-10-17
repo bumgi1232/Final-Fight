@@ -30,6 +30,11 @@ public class Player : MonoBehaviour
         sr.flipX = moveInput.x < 0;
     }
 
+    private void Update()
+    {
+        Flip();
+    }
+
 
     void OnMove(InputValue value)
     {
@@ -57,7 +62,22 @@ public class Player : MonoBehaviour
 
     void Flip()
     {
-        
+        if (sr.flipX)
+            punchHitbox.transform.localPosition = new Vector3(-0.9f, 0f, 0f);
+        else
+            punchHitbox.transform.localPosition = new Vector3(0f, 0f, 0f);
+    }
+
+    public void Hurt()
+    {
+        StartCoroutine (HurtRoutine());
+    }
+
+    IEnumerator HurtRoutine()
+    {
+        anim.SetBool("isHurt", true);
+        yield return new WaitForSeconds(0.5f);
+        anim.SetBool("isHurt", false);
     }
 
 }
