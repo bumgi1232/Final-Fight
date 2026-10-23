@@ -5,6 +5,7 @@ using UnityEngine.AI;
 
 public class Enemy : MonoBehaviour
 {
+<<<<<<< HEAD
     public bool isDead = false;
     bool isAttack = false;
     int blinkCount = 5;
@@ -13,16 +14,25 @@ public class Enemy : MonoBehaviour
     public int attackPower = 1;
     public int maxHp = 10;
     public int CurrentHp { get; private set; }
+=======
+    public int health = 5;
+    public bool isDead = false;
+    bool isAttack = false;
+>>>>>>> 64860cbb2631adeefaf15b18d31d7a08a7c8758d
     [SerializeField] Transform target;
     public GameObject attackBox;
     Animator anim;
     Rigidbody2D rigid;
+<<<<<<< HEAD
     SpriteRenderer sprite;
+=======
+>>>>>>> 64860cbb2631adeefaf15b18d31d7a08a7c8758d
     NavMeshAgent agent;
 
     [Header("이동 및 공격 설정")]
     public float attackRange = 1.2f;   // 이 거리보다 가까워지면 공격
     public float chaseRange = 8.0f;    // 이 거리 안에 들어오면 쫓아옴
+<<<<<<< HEAD
 
 
 
@@ -30,12 +40,17 @@ public class Enemy : MonoBehaviour
     {
         CurrentHp = maxHp;
     }
+=======
+>>>>>>> 64860cbb2631adeefaf15b18d31d7a08a7c8758d
 
     private void Awake()
     {
         anim = GetComponent<Animator>();
         rigid = GetComponent<Rigidbody2D>();
+<<<<<<< HEAD
         sprite = GetComponent<SpriteRenderer>();
+=======
+>>>>>>> 64860cbb2631adeefaf15b18d31d7a08a7c8758d
         agent = GetComponent<NavMeshAgent>();
         agent.updateRotation = false;
         agent.updateUpAxis = false;
@@ -44,6 +59,7 @@ public class Enemy : MonoBehaviour
     private void Update()
     {
         float distanceToPlayer = Vector2.Distance(transform.position, target.position);
+<<<<<<< HEAD
         attackTimer += Time.deltaTime;
 
         if(!isDead)
@@ -61,6 +77,22 @@ public class Enemy : MonoBehaviour
                 StopMoving();
             }
         }        
+=======
+
+        if (distanceToPlayer <= chaseRange && distanceToPlayer > attackRange)
+        {
+            ChasePlayer();
+        }
+        else if (distanceToPlayer <= attackRange)
+        {
+            StopAndAttack();
+        }
+        else
+        {
+            StopMoving();
+        }
+
+>>>>>>> 64860cbb2631adeefaf15b18d31d7a08a7c8758d
     }
 
     public void TakeDamage(int damage)
@@ -156,5 +188,37 @@ public class Enemy : MonoBehaviour
             color.a = alpha;
             sprite.color = color;
         }
+    }
+
+    void ChasePlayer()
+    {
+        agent.isStopped = false;
+        agent.SetDestination(target.position);
+        anim.SetBool("isWalking", true);
+    }
+    void StopAndAttack()
+    {
+        agent.isStopped = true;
+        anim.SetBool("isWalking", false);
+        StartCoroutine(AttackRoutine());
+    }
+    void StopMoving()
+    {
+        agent.isStopped = true;
+        anim.SetBool("isWalking", false);
+    }
+
+    IEnumerator AttackRoutine()
+    {
+        if (isAttack) yield break;
+        isAttack = true;
+        yield return new WaitForSeconds(1f);        
+        anim.SetBool("isAttack", true);
+        yield return new WaitForSeconds(0.3f);
+        attackBox.SetActive(true);
+        yield return new WaitForSeconds(1f);
+        attackBox.SetActive(false);
+        anim.SetBool("isAttack", false);
+        isAttack = false;
     }
 }
