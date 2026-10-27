@@ -5,53 +5,44 @@ public class TargetHealthUi : MonoBehaviour
 {
     public static TargetHealthUi Instance { get; private set; }
 
-    public GameObject targetPanel;
+    public GameObject targetCanvus;
     public Slider healthSlider;
-
-    private Transform currentTarget;
-    private Enemy enemy;
+    public Enemy enemy;
 
     private void Awake()
     {
         if (Instance == null) Instance = this;
         else Destroy(gameObject);
 
-        if(targetPanel != null)
+        if(targetCanvus != null)
         {
-            targetPanel.SetActive(false);
+            targetCanvus.SetActive(false);
         }
     }
 
     private void Update()
     {
-        if(currentTarget != null && enemy != null)
-        {
-            healthSlider.value = enemy.CurrentHp;
-        }
+        if(enemy != null)
+        healthSlider.value = enemy.CurrentHp;
     }
 
-    public void ShowTargetUI(Transform target, Enemy enemyHealth)
+    public void ShowTargetUI()
     {
-        currentTarget = target;
-        enemy = enemyHealth;
 
-        if(targetPanel != null)
+        if(targetCanvus != null)
         {
-            targetPanel.SetActive(true);
+            targetCanvus.SetActive(true);
         }
 
-        healthSlider.maxValue = enemyHealth.maxHp;
+        healthSlider.maxValue = enemy.maxHp;
         healthSlider.value = enemy.CurrentHp;
     }
 
     public void HideTargetUI()
     {
-        currentTarget = null;
-        enemy = null;
-
-        if(targetPanel != null)
+        if(targetCanvus != null)
         {
-            targetPanel.SetActive(false);
+            targetCanvus.SetActive(false);
         }
     }
 }

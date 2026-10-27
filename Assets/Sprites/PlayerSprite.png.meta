@@ -395,408 +395,188 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_0
+      name: PlayerSprite_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 1465
-        width: 7
-        height: 10
+        x: 4
+        y: 1466
+        width: 5
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a1c73cb3874ac2530800000000000000
-      internalID: 3831618219291147290
+      spriteID: f31a2d0c8f0620649bdad83a1fed5a35
+      internalID: -2144491889
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_1
+      name: PlayerSprite_1
       rect:
         serializedVersion: 2
-        x: 9
-        y: 1465
-        width: 26
-        height: 10
+        x: 10
+        y: 1466
+        width: 24
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7cb7214380d95a220800000000000000
-      internalID: 2496574227005733831
+      spriteID: 544296a3336d67f47be7b432da66ee15
+      internalID: 104000564
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_2
+      name: PlayerSprite_2
       rect:
         serializedVersion: 2
-        x: 81
-        y: 1368
-        width: 130
-        height: 114
+        x: 82
+        y: 1369
+        width: 128
+        height: 112
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 26517960273adfd80800000000000000
-      internalID: -8215230435121752734
+      spriteID: d372141128e5e9a4ab1838565b8b55d0
+      internalID: -2102467308
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_3
+      name: PlayerSprite_3
       rect:
         serializedVersion: 2
-        x: 213
-        y: 1432
-        width: 66
-        height: 50
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3d7e262e3fa857570800000000000000
-      internalID: 8463823854792533971
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_4
-      rect:
-        serializedVersion: 2
-        x: 281
-        y: 1432
-        width: 34
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bdb5d5d952020a980800000000000000
-      internalID: -8529782348313699365
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_5
-      rect:
-        serializedVersion: 2
-        x: 3
-        y: 1368
-        width: 56
-        height: 95
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d8a7698357b0a5f70800000000000000
-      internalID: 9176659788809271949
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_6
-      rect:
-        serializedVersion: 2
-        x: 213
-        y: 1380
-        width: 66
-        height: 50
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3a52e03b026647f60800000000000000
-      internalID: 8031156326137472419
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_7
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 1353
-        width: 34
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2dde2ad26312e9f40800000000000000
-      internalID: 5737059491894193618
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_8
-      rect:
-        serializedVersion: 2
-        x: 325
-        y: 1256
-        width: 34
-        height: 97
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d35093341c340e1b0800000000000000
-      internalID: -5629425036877560515
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_9
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 1256
-        width: 37
-        height: 96
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 10fafc62c1a303340800000000000000
-      internalID: 4841433492007923457
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_10
-      rect:
-        serializedVersion: 2
-        x: 61
-        y: 1256
-        width: 50
-        height: 95
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 66f911d97350c2f90800000000000000
-      internalID: -6977195986287222938
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_11
-      rect:
-        serializedVersion: 2
-        x: 123
-        y: 1256
+        x: 214
+        y: 1433
         width: 64
-        height: 95
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d4d0fa0e6ce2e46a58764e51f56514
+      internalID: -864698898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1369
+        width: 54
+        height: 93
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f8f31e0cccce79960800000000000000
-      internalID: 7608810459619213199
+      spriteID: e615311c9edae2142bc5e7bd49a0bf12
+      internalID: -1449976743
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_12
+      name: PlayerSprite_5
       rect:
         serializedVersion: 2
-        x: 190
-        y: 1256
-        width: 65
-        height: 96
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 282
+        y: 1433
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 695095d32802e71b0800000000000000
-      internalID: -5657048338183682666
+      spriteID: 03f49d12adec84040bfeac6ea22a1e70
+      internalID: 1431784128
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_13
+      name: PlayerSprite_6
       rect:
         serializedVersion: 2
-        x: 263
-        y: 1256
-        width: 52
-        height: 96
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5763553378ec87b90800000000000000
-      internalID: -7243812920548313483
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_14
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 1152
-        width: 41
-        height: 96
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: da17e128c1311f660800000000000000
-      internalID: 7417731074418962861
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_15
-      rect:
-        serializedVersion: 2
-        x: 66
-        y: 1152
-        width: 53
-        height: 95
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: acdee5717f712d410800000000000000
-      internalID: 1500287975884254666
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_16
-      rect:
-        serializedVersion: 2
-        x: 123
-        y: 1152
+        x: 214
+        y: 1381
         width: 64
-        height: 95
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2c161535e4a47d330800000000000000
-      internalID: 3735536116192862658
+      spriteID: cf45a2bc183e48840b4249141a46537c
+      internalID: -1554957276
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_17
+      name: PlayerSprite_7
       rect:
         serializedVersion: 2
-        x: 191
-        y: 1152
-        width: 64
-        height: 95
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2
+        y: 1354
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 11b2e54dcdf4a5cc0800000000000000
-      internalID: -3721574332193953007
+      spriteID: 20f076ca6570ff5408378e86f728da43
+      internalID: -1275655725
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_18
+      name: PlayerSprite_8
       rect:
         serializedVersion: 2
-        x: 260
-        y: 1154
-        width: 53
+        x: 2
+        y: 1257
+        width: 35
         height: 94
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -804,87 +584,219 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: de8d40a7771be3140800000000000000
-      internalID: 4701390187727739117
+      spriteID: 58e1c012f72abdd4d8a8cf640eb43cb0
+      internalID: 1187186383
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_19
+      name: PlayerSprite_9
       rect:
         serializedVersion: 2
-        x: 326
-        y: 1152
-        width: 34
-        height: 97
+        x: 62
+        y: 1257
+        width: 48
+        height: 93
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 931b3790f62ab8470800000000000000
-      internalID: 8397984527946068281
+      spriteID: 9fa5d1ef11286174dbed220de8f2cc63
+      internalID: -1169114805
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_20
+      name: PlayerSprite_10
       rect:
         serializedVersion: 2
-        x: 1
-        y: 1137
-        width: 26
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 124
+        y: 1257
+        width: 62
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 91882c6566e9cc7d0800000000000000
-      internalID: -2896766297926629351
+      spriteID: ea15096be46ed7249a59f09687a16804
+      internalID: 1126129189
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_21
+      name: PlayerSprite_11
       rect:
         serializedVersion: 2
-        x: 26
-        y: 1137
-        width: 18
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 191
+        y: 1257
+        width: 63
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e3a48fcd8f7a33370800000000000000
-      internalID: 8301163225474943550
+      spriteID: 6b8c527aca1720b42b88994b2431fa0d
+      internalID: -609773382
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_22
+      name: PlayerSprite_12
       rect:
         serializedVersion: 2
-        x: 1
-        y: 1041
-        width: 66
+        x: 264
+        y: 1257
+        width: 50
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0324a722c29b2ef4f99e3e36af2a0791
+      internalID: -1153021971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_13
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1257
+        width: 32
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6383978496250934ab9020bf42464cfb
+      internalID: 1304225593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1153
+        width: 39
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e4177b1d7b9174eb565343a257dfc6
+      internalID: -1704530892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_15
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1153
+        width: 51
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0131e10237a2b3443a8336c920af7fe8
+      internalID: -1846196714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_16
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1153
+        width: 62
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f858a348c7a1d7a428e39868cf83d339
+      internalID: 383136897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1153
+        width: 62
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cca1e8a901a4c45b570ad1fc8d9e00
+      internalID: 691770465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_18
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1155
+        width: 51
         height: 92
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -892,373 +804,197 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 12783f6797ef65870800000000000000
-      internalID: 8671397930188637985
+      spriteID: e24eb2718f86ea847a0aca912fe82fc3
+      internalID: -1423675953
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_23
+      name: PlayerSprite_19
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1153
+        width: 32
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6746deb026fcc914e9abc4c2d11f4549
+      internalID: -216143401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1138
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656be9955f54ff44f862bb8118443f83
+      internalID: 257814945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_21
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1138
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080a121d05b6c6248a2a870499a58116
+      internalID: -677260991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1042
+        width: 64
+        height: 90
+      alignment: 9
+      pivot: {x: 0.3767068, y: 0.0109592015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971d9aa3dc141cf4d9e11e65113304cc
+      internalID: 2058735936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_23
       rect:
         serializedVersion: 2
         x: 70
         y: 1042
-        width: 86
-        height: 92
+        width: 84
+        height: 90
       alignment: 9
-      pivot: {x: 0.31124, y: 0.0024719238}
+      pivot: {x: 0.27689806, y: 0.0109592015}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 40c0ebfacbb9ba070800000000000000
-      internalID: 8118753987970075652
+      spriteID: 2d7db0a7dd5554a498edd4370afccc42
+      internalID: -1977347654
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_24
+      name: PlayerSprite_24
       rect:
         serializedVersion: 2
-        x: 181
-        y: 1042
-        width: 70
-        height: 83
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 64e9c361c4d7b9f90800000000000000
-      internalID: -6945820234544800186
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_25
-      rect:
-        serializedVersion: 2
-        x: 254
-        y: 1042
-        width: 117
-        height: 79
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d19cd4f66c2f0c620800000000000000
-      internalID: 2792498703054522653
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_26
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 922
-        width: 79
-        height: 72
+        x: 182
+        y: 1043
+        width: 68
+        height: 81
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5674bdd91b3af8c30800000000000000
-      internalID: 4363886547198232421
+      spriteID: 18ad5c2e20094fc46bf60954c0fa3c83
+      internalID: 2134316797
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_27
+      name: PlayerSprite_25
       rect:
         serializedVersion: 2
-        x: 93
-        y: 922
-        width: 86
-        height: 80
+        x: 255
+        y: 1043
+        width: 115
+        height: 77
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 45336ad92b556bdc0800000000000000
-      internalID: -3623614624535530668
+      spriteID: 0c1f0d60a3da7fa4ebe288108e6f7327
+      internalID: 919545972
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_28
+      name: PlayerSprite_26
       rect:
         serializedVersion: 2
-        x: 185
+        x: 5
         y: 923
-        width: 83
-        height: 93
+        width: 77
+        height: 70
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: faaa1aed94f89cd00800000000000000
-      internalID: 993482740242426543
+      spriteID: f39b8bacb10a86a41af59eeb8e9fbf74
+      internalID: 750203261
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_29
+      name: PlayerSprite_27
       rect:
         serializedVersion: 2
-        x: 285
-        y: 920
-        width: 59
-        height: 113
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c2628f30b9ba31f70800000000000000
-      internalID: 9156851149649225260
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_30
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 905
-        width: 50
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c56c0c10e3aa31810800000000000000
-      internalID: 1734917464761878108
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_31
-      rect:
-        serializedVersion: 2
-        x: 245
-        y: 905
-        width: 50
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8c76b2cadab98a8b0800000000000000
-      internalID: -5140687804423247928
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_32
-      rect:
-        serializedVersion: 2
-        x: 294
-        y: 905
-        width: 8
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 679b0ede1699299d0800000000000000
-      internalID: -2768982174997628554
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_33
-      rect:
-        serializedVersion: 2
-        x: 13
-        y: 810
-        width: 70
-        height: 83
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8f34fbb7c6523f420800000000000000
-      internalID: 2662512952568923128
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_34
-      rect:
-        serializedVersion: 2
-        x: 86
-        y: 810
-        width: 117
-        height: 79
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 09153b573ab0df8d0800000000000000
-      internalID: -2811077795727060592
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_35
-      rect:
-        serializedVersion: 2
-        x: 245
-        y: 808
-        width: 73
-        height: 89
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bd23fdea808015730800000000000000
-      internalID: 3985975978586223323
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_36
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 793
-        width: 34
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f2a42d8029a76aea0800000000000000
-      internalID: -5861863097344308689
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_37
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 696
-        width: 79
-        height: 88
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ab3fa6c3d656705d0800000000000000
-      internalID: -3096394698954443846
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_38
-      rect:
-        serializedVersion: 2
-        x: 87
-        y: 703
-        width: 51
-        height: 79
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9b92dc5a1f056c050800000000000000
-      internalID: 5820428567221971385
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_39
-      rect:
-        serializedVersion: 2
-        x: 158
-        y: 696
-        width: 65
+        x: 94
+        y: 923
+        width: 84
         height: 78
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1266,882 +1002,505 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b4a5e0d889c363d20800000000000000
-      internalID: 3257858006348356171
+      spriteID: f1214b68e7474e841b05a7fffcbc4528
+      internalID: -1531278441
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_40
+      name: PlayerSprite_28
       rect:
         serializedVersion: 2
-        x: 237
-        y: 696
-        width: 61
-        height: 66
+        x: 186
+        y: 924
+        width: 81
+        height: 91
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 23065c0288685ef10800000000000000
-      internalID: 2298391104065986610
+      spriteID: 73e282ff729b56c44bfbc883abfb5c99
+      internalID: -677956718
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_41
+      name: PlayerSprite_29
       rect:
         serializedVersion: 2
-        x: 1
-        y: 681
-        width: 34
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9a15c79bf1edcdab0800000000000000
-      internalID: -4981862859941326423
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_42
-      rect:
-        serializedVersion: 2
-        x: 217
-        y: 681
-        width: 34
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7efe2897141ef5b60800000000000000
-      internalID: 7737150356173549543
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_43
-      rect:
-        serializedVersion: 2
-        x: 257
-        y: 681
-        width: 10
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 34cd4ec91235c9eb0800000000000000
-      internalID: -4711799706305110973
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_44
-      rect:
-        serializedVersion: 2
-        x: 267
-        y: 681
-        width: 7
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: eeff28345559f92c0800000000000000
-      internalID: -4422652115617120274
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_45
-      rect:
-        serializedVersion: 2
-        x: 273
-        y: 681
-        width: 18
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ec52e7bc926da5570800000000000000
-      internalID: 8456306725337572814
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_46
-      rect:
-        serializedVersion: 2
-        x: 3
-        y: 577
-        width: 56
-        height: 86
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ba2163725cc25f290800000000000000
-      internalID: -7857324749599927637
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_47
-      rect:
-        serializedVersion: 2
-        x: 70
-        y: 569
-        width: 44
-        height: 110
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 61058f94ddaa7e760800000000000000
-      internalID: 7487140772932243478
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_48
-      rect:
-        serializedVersion: 2
-        x: 124
-        y: 584
+        x: 286
+        y: 921
         width: 57
-        height: 79
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7e63a0f0433424a40800000000000000
-      internalID: 5350913198139258599
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_49
-      rect:
-        serializedVersion: 2
-        x: 219
-        y: 576
-        width: 57
-        height: 89
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a7cf6081ccc6e38c0800000000000000
-      internalID: -4017654193735664518
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_50
-      rect:
-        serializedVersion: 2
-        x: 298
-        y: 584
-        width: 67
-        height: 90
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2b45a296e06ed0460800000000000000
-      internalID: 7209671528058344626
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_51
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 553
-        width: 34
-        height: 10
+        height: 111
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4753e368812ec6940800000000000000
-      internalID: 5290852257212806516
+      spriteID: 88a471c56bf59de43819fefcd4349e19
+      internalID: 741501772
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_52
+      name: PlayerSprite_30
       rect:
         serializedVersion: 2
-        x: 8
-        y: 458
-        width: 71
-        height: 88
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c78b5a2493da44a60800000000000000
-      internalID: 7657435727879583868
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_53
-      rect:
-        serializedVersion: 2
-        x: 297
-        y: 537
-        width: 50
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f1058b4c6050e0030800000000000000
-      internalID: 3462710690122846239
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_54
-      rect:
-        serializedVersion: 2
-        x: 298
-        y: 471
-        width: 59
-        height: 67
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e4012da713bec3e80800000000000000
-      internalID: -8197418623974633394
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_55
-      rect:
-        serializedVersion: 2
-        x: 346
-        y: 537
-        width: 8
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c7315f6dae24c2040800000000000000
-      internalID: 4624144493798822780
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_56
-      rect:
-        serializedVersion: 2
-        x: 90
-        y: 479
-        width: 84
-        height: 55
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d24628c657f396080800000000000000
-      internalID: -9193747390735948755
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_57
-      rect:
-        serializedVersion: 2
-        x: 199
-        y: 473
-        width: 67
-        height: 63
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 126dc81c2b326b9f0800000000000000
-      internalID: -453135461845772767
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_58
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 441
-        width: 34
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e6748338105974320800000000000000
-      internalID: 2542164348402943854
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_59
-      rect:
-        serializedVersion: 2
-        x: 41
-        y: 441
-        width: 10
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2582d619837ccd010800000000000000
-      internalID: 1215065045255137362
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_60
-      rect:
-        serializedVersion: 2
-        x: 51
-        y: 441
-        width: 7
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 120a50a153b67a080800000000000000
-      internalID: -9176247839930081247
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_61
-      rect:
-        serializedVersion: 2
-        x: 57
-        y: 441
-        width: 18
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fec1f05dc46914470800000000000000
-      internalID: 8377142038622051567
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_62
-      rect:
-        serializedVersion: 2
-        x: 9
-        y: 347
-        width: 77
-        height: 84
-<<<<<<< HEAD
-      alignment: 9
-      pivot: {x: 0.75143164, y: 0.03904143}
-=======
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
->>>>>>> 64860cbb2631adeefaf15b18d31d7a08a7c8758d
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f06a52abdbf2e0310800000000000000
-      internalID: 1373087428312933903
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_63
-      rect:
-        serializedVersion: 2
-        x: 103
-        y: 351
-        width: 62
-        height: 89
-<<<<<<< HEAD
-      alignment: 9
-      pivot: {x: 0.730088, y: -0.0037560624}
-=======
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
->>>>>>> 64860cbb2631adeefaf15b18d31d7a08a7c8758d
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1d92358fc49dccb40800000000000000
-      internalID: 5461979372700510673
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_64
-      rect:
-        serializedVersion: 2
-        x: 170
-        y: 377
-        width: 122
-        height: 62
-<<<<<<< HEAD
-      alignment: 9
-      pivot: {x: 0.49999988, y: 0.023389755}
-=======
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
->>>>>>> 64860cbb2631adeefaf15b18d31d7a08a7c8758d
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 58678d132b6b86370800000000000000
-      internalID: 8316097588396324485
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_65
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 330
-        width: 34
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cfa9efca1dc0eba10800000000000000
-      internalID: 1926991785251216124
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_66
-      rect:
-        serializedVersion: 2
-        x: 35
-        y: 330
-        width: 7
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d12fd75b2635dda30800000000000000
-      internalID: 4241638107469705757
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_67
-      rect:
-        serializedVersion: 2
-        x: 41
-        y: 330
-        width: 18
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 306a1e79e72e069d0800000000000000
-      internalID: -2782975536373062141
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_68
-      rect:
-        serializedVersion: 2
-        x: 68
-        y: 330
-        width: 31
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b15782c4fc54e71f0800000000000000
-      internalID: -1045321306865109733
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_69
-      rect:
-        serializedVersion: 2
-        x: 105
-        y: 330
-        width: 10
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: df8d8f47a155d4450800000000000000
-      internalID: 6074605044512643325
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_70
-      rect:
-        serializedVersion: 2
-        x: 115
-        y: 330
-        width: 7
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dbd6d90b73f65d390800000000000000
-      internalID: -7794201295117783619
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_71
-      rect:
-        serializedVersion: 2
-        x: 121
-        y: 330
-        width: 18
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ec67d8e4385484cb0800000000000000
-      internalID: -4879573765995006258
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_72
-      rect:
-        serializedVersion: 2
-        x: 145
-        y: 330
+        x: 2
+        y: 906
         width: 48
-        height: 10
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d3b83bbcac6103740800000000000000
-      internalID: 5129625035831741245
+      spriteID: 7dad15ce582469e47a0daca34f8bec54
+      internalID: 1148271753
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_73
+      name: PlayerSprite_31
       rect:
         serializedVersion: 2
-        x: 249
-        y: 330
-        width: 34
-        height: 10
+        x: 246
+        y: 906
+        width: 48
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c5d5fa73e40945280800000000000000
-      internalID: -9055454285119136420
+      spriteID: ad9c40d4993036d4396df96e8f238ae8
+      internalID: 1354290836
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_74
+      name: PlayerSprite_32
       rect:
         serializedVersion: 2
-        x: 289
-        y: 330
-        width: 34
-        height: 10
+        x: 295
+        y: 906
+        width: 6
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1e32ef53a0547dee0800000000000000
-      internalID: -1236443662532074527
+      spriteID: 9715156bbf5a34f4f82da8c2d6674319
+      internalID: -1368572072
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_75
+      name: PlayerSprite_33
       rect:
         serializedVersion: 2
-        x: 16
-        y: 257
-        width: 47
-        height: 72
+        x: 14
+        y: 811
+        width: 68
+        height: 81
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e9cfc8afff0e2daf0800000000000000
-      internalID: -372988429093503842
+      spriteID: e077c52285983084da355f9364513d22
+      internalID: -1112873031
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_76
+      name: PlayerSprite_34
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 811
+        width: 115
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd125562a9d04a84b8c98f0db5302a89
+      internalID: 1234546073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_35
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 809
+        width: 71
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228c3d6ed569b544aa4fd3ec7098b5b8
+      internalID: 155911642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 794
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cd587035aa8fe49ab2575aee446541
+      internalID: -1067002574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_37
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 697
+        width: 77
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015db3177dddc4a49a173b97f7b96aa2
+      internalID: 1252366517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_38
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 704
+        width: 49
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43b17509053f1d4ab34d455cf74a1fe
+      internalID: -191157672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_39
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 697
+        width: 63
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e0cf6d78055954793037a805251541
+      internalID: 949406939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_40
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 697
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5921d20d4afbd4b8f25055b2b21d44
+      internalID: -1495879172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_41
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 682
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98100fc853199b944979a7bcd6def502
+      internalID: -319581783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_42
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 682
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf9a1f770ea98d4db2994c97b7415fa
+      internalID: 932592242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_43
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 682
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059a3c54fcd6cca42901d3b6ae5a891a
+      internalID: 992096295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_44
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 682
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696bb1f71a91bda4d84984bd3126f353
+      internalID: -2090958283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_45
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 682
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbca65a615e7b042b6c8fb895fe45ec
+      internalID: 840291600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_46
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 578
+        width: 54
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8125a95aeed64734ebe15b5a6c1cbc21
+      internalID: 1462743590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_47
       rect:
         serializedVersion: 2
         x: 71
-        y: 249
-        width: 96
-        height: 70
-<<<<<<< HEAD
-      alignment: 9
-      pivot: {x: 0.5106142, y: 0.005076163}
-=======
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
->>>>>>> 64860cbb2631adeefaf15b18d31d7a08a7c8758d
+        y: 571
+        width: 42
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 504a147272fc3d3c0800000000000000
-      internalID: -4335894249158368251
+      spriteID: 1fe0b832f89f4094889674d34090ae8c
+      internalID: -1591279586
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_77
+      name: PlayerSprite_48
       rect:
         serializedVersion: 2
-        x: 171
-        y: 265
-        width: 63
-        height: 63
-<<<<<<< HEAD
-      alignment: 9
-      pivot: {x: 0.50000024, y: -0.0013936361}
-=======
+        x: 125
+        y: 585
+        width: 55
+        height: 77
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
->>>>>>> 64860cbb2631adeefaf15b18d31d7a08a7c8758d
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1ae143d29dec95540800000000000000
-      internalID: 4997252693705891489
+      spriteID: 6508685612d98fd4d96f4f61d31dbe04
+      internalID: -1987543637
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_78
+      name: PlayerSprite_49
       rect:
         serializedVersion: 2
-        x: 256
-        y: 235
-        width: 71
+        x: 220
+        y: 577
+        width: 55
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377a793e150bc18468ff37ecc48720cf
+      internalID: -1837107356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_50
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 585
+        width: 65
         height: 88
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -2149,21 +1508,153 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 36af432d048ad9020800000000000000
-      internalID: 2350219576915327587
+      spriteID: 6f3da03e95917684e9cc79681c3100f7
+      internalID: -1538487328
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_79
+      name: PlayerSprite_51
       rect:
         serializedVersion: 2
-        x: 339
-        y: 244
-        width: 60
+        x: 2
+        y: 554
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ab5c992533d2f48957512b0d833a17
+      internalID: 1677725743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_52
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 459
+        width: 69
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fe35ff580c5b14ebea361a6726d522
+      internalID: -2116424012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_53
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 538
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7889969059cfc70428a6441632e7a14a
+      internalID: -2131168697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_54
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 538
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccb05020b5f5374e9114acabe20c695
+      internalID: -1165702630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_55
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 480
+        width: 82
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6313100dd85a4294590567389607aff0
+      internalID: 421194227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_56
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 474
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7989f156eb5fe6b448eeae64bd20c7ce
+      internalID: 569373130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_57
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 472
+        width: 57
         height: 65
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -2171,340 +1662,824 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 82e329541f848fe80800000000000000
-      internalID: -8144679725008011736
+      spriteID: 12970cea319e1164f825541d1acbfbcd
+      internalID: -1355221580
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_80
+      name: PlayerSprite_58
       rect:
         serializedVersion: 2
-        x: 1
-        y: 218
-        width: 34
-        height: 10
+        x: 2
+        y: 442
+        width: 32
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8a2c207d0b71fcac0800000000000000
-      internalID: -3832818709580037464
+      spriteID: 0ca4a25326c17f04098a9d8f4b3b2402
+      internalID: -1130926570
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_81
+      name: PlayerSprite_59
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 442
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d8cc23e501a9947910f3fa44a25fc1
+      internalID: -490056935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_60
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 442
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acba1b66b009cd94cb6c8f25bf69fd65
+      internalID: -1956232818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_61
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 442
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b38070651350848affc6462b66ed8e
+      internalID: -1979247847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_62
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 349
+        width: 75
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07347fe3f8493434794b92bbe6ab644c
+      internalID: -1240911174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_63
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 352
+        width: 60
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b433b5a8064aa414080fe87d5bb222d0
+      internalID: -2023156942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_64
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 378
+        width: 120
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2770abaec002a514cbaf446dffd1b4cf
+      internalID: -1972186635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_65
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 331
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87df57d186797a47935518f6ad12483
+      internalID: 499715158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_66
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 331
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c196c4b5b2ab2bb4ba5f9e6279749be6
+      internalID: 1278797415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_67
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 331
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfa61fcf858eaf409feaa67dcd26a80
+      internalID: 1304490745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_68
       rect:
         serializedVersion: 2
         x: 69
-        y: 121
-        width: 63
-        height: 98
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        y: 331
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: cb3cf374f51f24880800000000000000
-      internalID: -8628068544568900676
+      spriteID: 7db9bf6a1c7a0fa45a0fca0e52ca1a7f
+      internalID: 1349195006
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_82
+      name: PlayerSprite_69
       rect:
         serializedVersion: 2
-        x: 3
-        y: 122
-        width: 57
-        height: 86
+        x: 106
+        y: 331
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc511de795666cc48b23cd23e4bd8e00
+      internalID: -1170787093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_70
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 331
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b660b13c66fa1645b4cc9f2171f9310
+      internalID: 983011884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_71
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 331
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0d7584c94196549b59c367887d1779
+      internalID: 1915293155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_72
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 331
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c3e3d055eb20b448351486d24f98ca
+      internalID: 280635912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_73
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 331
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040fab120fca2c34e97f8354b639e3f2
+      internalID: -986063363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_74
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 331
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9080b0986dbcbe94f930b313da450394
+      internalID: -1772849835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_75
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 258
+        width: 45
+        height: 70
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b1ad99a44cfc3f770800000000000000
-      internalID: 8643480551826250267
+      spriteID: 9ead2ae1d8bdc5b47a39a2b3387287cb
+      internalID: 401394640
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_83
+      name: PlayerSprite_76
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 250
+        width: 94
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf30cb4ddd7dde24ebf5c0e82fdccab4
+      internalID: 3392518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_77
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 266
+        width: 61
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e041d8a64e2efa841af990e691db0421
+      internalID: -232146538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_78
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 236
+        width: 69
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef552540ba721fe48b65faa72240e371
+      internalID: 247174719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_79
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 245
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f177cd2152eae4b85cbda51854219b
+      internalID: -1173895836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_80
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 219
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6c715630164e34f88e938c80383b4b
+      internalID: 1861775533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_81
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 122
+        width: 55
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939bb6be9f2a3c64e8c79f97cd8d6e87
+      internalID: 195098406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_82
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 122
+        width: 61
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40edc70def5db2a4990ff53193c9fd16
+      internalID: 640423334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_83
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 128
+        width: 95
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522473f66d92964418869772ec914f2b
+      internalID: -407401972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_84
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 124
+        width: 120
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a074ce95181f104ab2925d193f065da
+      internalID: -1324627874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_85
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 67
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a818cf814cd36f41aa2701492abbe29
+      internalID: -1510148237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_86
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 67
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec3a5a6d9b6cb34ea2f07bd4ac9d0d8
+      internalID: 1851381313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_87
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 67
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c322e0c8bdf2b248878b6fdecf0a760
+      internalID: -1233546031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSprite_88
       rect:
         serializedVersion: 2
         x: 142
-        y: 127
-        width: 97
-        height: 55
+        y: 67
+        width: 16
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 53a177b27abb73f50800000000000000
-      internalID: 6861158883985398325
+      spriteID: 10a61045c4bce5044a779dc5794cb912
+      internalID: 1349884354
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_84
+      name: PlayerSprite_89
       rect:
         serializedVersion: 2
-        x: 260
-        y: 123
-        width: 122
-        height: 39
+        x: 185
+        y: 2
+        width: 89
+        height: 103
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: faa74c962a6388080800000000000000
-      internalID: -9185031368835040593
+      spriteID: 2ad34bea4c8713d40a0d6d2c50bcc029
+      internalID: -1997801845
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_85
+      name: PlayerSprite_90
       rect:
         serializedVersion: 2
-        x: 101
+        x: 282
         y: 66
-        width: 10
-        height: 10
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d0f7e245937de3c00800000000000000
-      internalID: 882379218236636941
+      spriteID: 2dbb4772dd412aa4aa6e2f593b7b3837
+      internalID: 2032746142
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_86
+      name: PlayerSprite_91
       rect:
         serializedVersion: 2
-        x: 111
-        y: 66
-        width: 7
-        height: 10
+        x: 104
+        y: 2
+        width: 54
+        height: 58
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c2244bb77427027d0800000000000000
-      internalID: -2945228504956648916
+      spriteID: 529c21f05dd727448af2b19ed498e685
+      internalID: 98668369
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_87
+      name: PlayerSprite_92
       rect:
         serializedVersion: 2
-        x: 117
-        y: 66
-        width: 18
-        height: 10
+        x: 282
+        y: 46
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b7a12f609b62be470800000000000000
-      internalID: 8424870104053979771
+      spriteID: 5da23e612f54b334e9799f873675b0d6
+      internalID: 1877708646
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_88
+      name: PlayerSprite_93
       rect:
         serializedVersion: 2
-        x: 141
-        y: 66
-        width: 18
-        height: 10
+        x: 306
+        y: 46
+        width: 24
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9428116355750dab0800000000000000
-      internalID: -4985388764008185271
+      spriteID: 9d922d6b7eee9d44ba798fbdd0c5c8ba
+      internalID: -1806686576
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_89
+      name: PlayerSprite_94
       rect:
         serializedVersion: 2
-        x: 184
-        y: 1
-        width: 91
-        height: 105
+        x: 2
+        y: 4
+        width: 94
+        height: 36
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 10e003d2f7256a0a0800000000000000
-      internalID: -6870713475334664703
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_90
-      rect:
-        serializedVersion: 2
-        x: 281
-        y: 65
-        width: 50
-        height: 50
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e438b79f25be2ab40800000000000000
-      internalID: 5450177240677188430
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_91
-      rect:
-        serializedVersion: 2
-        x: 103
-        y: 1
-        width: 56
-        height: 60
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 96f387ed5f4e396f0800000000000000
-      internalID: -678947374152269975
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_92
-      rect:
-        serializedVersion: 2
-        x: 281
-        y: 45
-        width: 18
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 05a79cbdc6a8fc450800000000000000
-      internalID: 6111255419513567824
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_93
-      rect:
-        serializedVersion: 2
-        x: 305
-        y: 45
-        width: 26
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e0e8ea8532d784b50800000000000000
-      internalID: 6577644846539771406
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Final Fight - Playable Characters - Cody 1_94
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 3
-        width: 96
-        height: 38
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9f940cb485a43ce70800000000000000
-      internalID: 9134226212325968377
+      spriteID: 83f953bf5f5f25744bac345711883042
+      internalID: -1785657144
       vertices: []
       indices: 
       edges: []
@@ -2513,7 +2488,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 274715f9e244e1a4591722ce4ceaab44
+    spriteID: 0a20e401c32420f41887f00e1e8ad827
     internalID: 0
     vertices: []
     indices: 
@@ -2521,103 +2496,105 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Arcade - Final Fight - Playable Characters - Cody 1_0: 3831618219291147290
-      Arcade - Final Fight - Playable Characters - Cody 1_1: 2496574227005733831
-      Arcade - Final Fight - Playable Characters - Cody 1_10: -6977195986287222938
-      Arcade - Final Fight - Playable Characters - Cody 1_11: 7608810459619213199
-      Arcade - Final Fight - Playable Characters - Cody 1_12: -5657048338183682666
-      Arcade - Final Fight - Playable Characters - Cody 1_13: -7243812920548313483
-      Arcade - Final Fight - Playable Characters - Cody 1_14: 7417731074418962861
-      Arcade - Final Fight - Playable Characters - Cody 1_15: 1500287975884254666
-      Arcade - Final Fight - Playable Characters - Cody 1_16: 3735536116192862658
-      Arcade - Final Fight - Playable Characters - Cody 1_17: -3721574332193953007
-      Arcade - Final Fight - Playable Characters - Cody 1_18: 4701390187727739117
-      Arcade - Final Fight - Playable Characters - Cody 1_19: 8397984527946068281
-      Arcade - Final Fight - Playable Characters - Cody 1_2: -8215230435121752734
-      Arcade - Final Fight - Playable Characters - Cody 1_20: -2896766297926629351
-      Arcade - Final Fight - Playable Characters - Cody 1_21: 8301163225474943550
-      Arcade - Final Fight - Playable Characters - Cody 1_22: 8671397930188637985
-      Arcade - Final Fight - Playable Characters - Cody 1_23: 8118753987970075652
-      Arcade - Final Fight - Playable Characters - Cody 1_24: -6945820234544800186
-      Arcade - Final Fight - Playable Characters - Cody 1_25: 2792498703054522653
-      Arcade - Final Fight - Playable Characters - Cody 1_26: 4363886547198232421
-      Arcade - Final Fight - Playable Characters - Cody 1_27: -3623614624535530668
-      Arcade - Final Fight - Playable Characters - Cody 1_28: 993482740242426543
-      Arcade - Final Fight - Playable Characters - Cody 1_29: 9156851149649225260
-      Arcade - Final Fight - Playable Characters - Cody 1_3: 8463823854792533971
-      Arcade - Final Fight - Playable Characters - Cody 1_30: 1734917464761878108
-      Arcade - Final Fight - Playable Characters - Cody 1_31: -5140687804423247928
-      Arcade - Final Fight - Playable Characters - Cody 1_32: -2768982174997628554
-      Arcade - Final Fight - Playable Characters - Cody 1_33: 2662512952568923128
-      Arcade - Final Fight - Playable Characters - Cody 1_34: -2811077795727060592
-      Arcade - Final Fight - Playable Characters - Cody 1_35: 3985975978586223323
-      Arcade - Final Fight - Playable Characters - Cody 1_36: -5861863097344308689
-      Arcade - Final Fight - Playable Characters - Cody 1_37: -3096394698954443846
-      Arcade - Final Fight - Playable Characters - Cody 1_38: 5820428567221971385
-      Arcade - Final Fight - Playable Characters - Cody 1_39: 3257858006348356171
-      Arcade - Final Fight - Playable Characters - Cody 1_4: -8529782348313699365
-      Arcade - Final Fight - Playable Characters - Cody 1_40: 2298391104065986610
-      Arcade - Final Fight - Playable Characters - Cody 1_41: -4981862859941326423
-      Arcade - Final Fight - Playable Characters - Cody 1_42: 7737150356173549543
-      Arcade - Final Fight - Playable Characters - Cody 1_43: -4711799706305110973
-      Arcade - Final Fight - Playable Characters - Cody 1_44: -4422652115617120274
-      Arcade - Final Fight - Playable Characters - Cody 1_45: 8456306725337572814
-      Arcade - Final Fight - Playable Characters - Cody 1_46: -7857324749599927637
-      Arcade - Final Fight - Playable Characters - Cody 1_47: 7487140772932243478
-      Arcade - Final Fight - Playable Characters - Cody 1_48: 5350913198139258599
-      Arcade - Final Fight - Playable Characters - Cody 1_49: -4017654193735664518
-      Arcade - Final Fight - Playable Characters - Cody 1_5: 9176659788809271949
-      Arcade - Final Fight - Playable Characters - Cody 1_50: 7209671528058344626
-      Arcade - Final Fight - Playable Characters - Cody 1_51: 5290852257212806516
-      Arcade - Final Fight - Playable Characters - Cody 1_52: 7657435727879583868
-      Arcade - Final Fight - Playable Characters - Cody 1_53: 3462710690122846239
-      Arcade - Final Fight - Playable Characters - Cody 1_54: -8197418623974633394
-      Arcade - Final Fight - Playable Characters - Cody 1_55: 4624144493798822780
-      Arcade - Final Fight - Playable Characters - Cody 1_56: -9193747390735948755
-      Arcade - Final Fight - Playable Characters - Cody 1_57: -453135461845772767
-      Arcade - Final Fight - Playable Characters - Cody 1_58: 2542164348402943854
-      Arcade - Final Fight - Playable Characters - Cody 1_59: 1215065045255137362
-      Arcade - Final Fight - Playable Characters - Cody 1_6: 8031156326137472419
-      Arcade - Final Fight - Playable Characters - Cody 1_60: -9176247839930081247
-      Arcade - Final Fight - Playable Characters - Cody 1_61: 8377142038622051567
-      Arcade - Final Fight - Playable Characters - Cody 1_62: 1373087428312933903
-      Arcade - Final Fight - Playable Characters - Cody 1_63: 5461979372700510673
-      Arcade - Final Fight - Playable Characters - Cody 1_64: 8316097588396324485
-      Arcade - Final Fight - Playable Characters - Cody 1_65: 1926991785251216124
-      Arcade - Final Fight - Playable Characters - Cody 1_66: 4241638107469705757
-      Arcade - Final Fight - Playable Characters - Cody 1_67: -2782975536373062141
-      Arcade - Final Fight - Playable Characters - Cody 1_68: -1045321306865109733
-      Arcade - Final Fight - Playable Characters - Cody 1_69: 6074605044512643325
-      Arcade - Final Fight - Playable Characters - Cody 1_7: 5737059491894193618
-      Arcade - Final Fight - Playable Characters - Cody 1_70: -7794201295117783619
-      Arcade - Final Fight - Playable Characters - Cody 1_71: -4879573765995006258
-      Arcade - Final Fight - Playable Characters - Cody 1_72: 5129625035831741245
-      Arcade - Final Fight - Playable Characters - Cody 1_73: -9055454285119136420
-      Arcade - Final Fight - Playable Characters - Cody 1_74: -1236443662532074527
-      Arcade - Final Fight - Playable Characters - Cody 1_75: -372988429093503842
-      Arcade - Final Fight - Playable Characters - Cody 1_76: -4335894249158368251
-      Arcade - Final Fight - Playable Characters - Cody 1_77: 4997252693705891489
-      Arcade - Final Fight - Playable Characters - Cody 1_78: 2350219576915327587
-      Arcade - Final Fight - Playable Characters - Cody 1_79: -8144679725008011736
-      Arcade - Final Fight - Playable Characters - Cody 1_8: -5629425036877560515
-      Arcade - Final Fight - Playable Characters - Cody 1_80: -3832818709580037464
-      Arcade - Final Fight - Playable Characters - Cody 1_81: -8628068544568900676
-      Arcade - Final Fight - Playable Characters - Cody 1_82: 8643480551826250267
-      Arcade - Final Fight - Playable Characters - Cody 1_83: 6861158883985398325
-      Arcade - Final Fight - Playable Characters - Cody 1_84: -9185031368835040593
-      Arcade - Final Fight - Playable Characters - Cody 1_85: 882379218236636941
-      Arcade - Final Fight - Playable Characters - Cody 1_86: -2945228504956648916
-      Arcade - Final Fight - Playable Characters - Cody 1_87: 8424870104053979771
-      Arcade - Final Fight - Playable Characters - Cody 1_88: -4985388764008185271
-      Arcade - Final Fight - Playable Characters - Cody 1_89: -6870713475334664703
-      Arcade - Final Fight - Playable Characters - Cody 1_9: 4841433492007923457
-      Arcade - Final Fight - Playable Characters - Cody 1_90: 5450177240677188430
-      Arcade - Final Fight - Playable Characters - Cody 1_91: -678947374152269975
-      Arcade - Final Fight - Playable Characters - Cody 1_92: 6111255419513567824
-      Arcade - Final Fight - Playable Characters - Cody 1_93: 6577644846539771406
-      Arcade - Final Fight - Playable Characters - Cody 1_94: 9134226212325968377
+      PlayerSprite_0: -2144491889
+      PlayerSprite_1: 104000564
+      PlayerSprite_10: 1126129189
+      PlayerSprite_11: -609773382
+      PlayerSprite_12: -1153021971
+      PlayerSprite_13: 1304225593
+      PlayerSprite_14: -1704530892
+      PlayerSprite_15: -1846196714
+      PlayerSprite_16: 383136897
+      PlayerSprite_17: 691770465
+      PlayerSprite_18: -1423675953
+      PlayerSprite_19: -216143401
+      PlayerSprite_2: -2102467308
+      PlayerSprite_20: 257814945
+      PlayerSprite_21: -677260991
+      PlayerSprite_22: 2058735936
+      PlayerSprite_23: -1977347654
+      PlayerSprite_24: 2134316797
+      PlayerSprite_25: 919545972
+      PlayerSprite_26: 750203261
+      PlayerSprite_27: -1531278441
+      PlayerSprite_28: -677956718
+      PlayerSprite_29: 741501772
+      PlayerSprite_3: -864698898
+      PlayerSprite_30: 1148271753
+      PlayerSprite_31: 1354290836
+      PlayerSprite_32: -1368572072
+      PlayerSprite_33: -1112873031
+      PlayerSprite_34: 1234546073
+      PlayerSprite_35: 155911642
+      PlayerSprite_36: -1067002574
+      PlayerSprite_37: 1252366517
+      PlayerSprite_38: -191157672
+      PlayerSprite_39: 949406939
+      PlayerSprite_4: -1449976743
+      PlayerSprite_40: -1495879172
+      PlayerSprite_41: -319581783
+      PlayerSprite_42: 932592242
+      PlayerSprite_43: 992096295
+      PlayerSprite_44: -2090958283
+      PlayerSprite_45: 840291600
+      PlayerSprite_46: 1462743590
+      PlayerSprite_47: -1591279586
+      PlayerSprite_48: -1987543637
+      PlayerSprite_49: -1837107356
+      PlayerSprite_5: 1431784128
+      PlayerSprite_50: -1538487328
+      PlayerSprite_51: 1677725743
+      PlayerSprite_52: -2116424012
+      PlayerSprite_53: -2131168697
+      PlayerSprite_54: -1165702630
+      PlayerSprite_55: 421194227
+      PlayerSprite_56: 569373130
+      PlayerSprite_57: -1355221580
+      PlayerSprite_58: -1130926570
+      PlayerSprite_59: -490056935
+      PlayerSprite_6: -1554957276
+      PlayerSprite_60: -1956232818
+      PlayerSprite_61: -1979247847
+      PlayerSprite_62: -1240911174
+      PlayerSprite_63: -2023156942
+      PlayerSprite_64: -1972186635
+      PlayerSprite_65: 499715158
+      PlayerSprite_66: 1278797415
+      PlayerSprite_67: 1304490745
+      PlayerSprite_68: 1349195006
+      PlayerSprite_69: -1170787093
+      PlayerSprite_7: -1275655725
+      PlayerSprite_70: 983011884
+      PlayerSprite_71: 1915293155
+      PlayerSprite_72: 280635912
+      PlayerSprite_73: -986063363
+      PlayerSprite_74: -1772849835
+      PlayerSprite_75: 401394640
+      PlayerSprite_76: 3392518
+      PlayerSprite_77: -232146538
+      PlayerSprite_78: 247174719
+      PlayerSprite_79: -1173895836
+      PlayerSprite_8: 1187186383
+      PlayerSprite_80: 1861775533
+      PlayerSprite_81: 195098406
+      PlayerSprite_82: 640423334
+      PlayerSprite_83: -407401972
+      PlayerSprite_84: -1324627874
+      PlayerSprite_85: -1510148237
+      PlayerSprite_86: 1851381313
+      PlayerSprite_87: -1233546031
+      PlayerSprite_88: 1349884354
+      PlayerSprite_89: -1997801845
+      PlayerSprite_9: -1169114805
+      PlayerSprite_90: 2032746142
+      PlayerSprite_91: 98668369
+      PlayerSprite_92: 1877708646
+      PlayerSprite_93: -1806686576
+      PlayerSprite_94: -1785657144
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

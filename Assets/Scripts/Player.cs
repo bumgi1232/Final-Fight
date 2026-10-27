@@ -12,6 +12,7 @@ public class Player : MonoBehaviour
     public float speed = 5f;
     bool isAttacking = false;
     bool isHurt = false;
+    bool isDead = false;
     private int maxHp = 10;
     private int currentHp;
 
@@ -92,23 +93,7 @@ public class Player : MonoBehaviour
             punchHitbox.transform.localPosition = new Vector3(-0.9f, 0f, 0f);
         else
             punchHitbox.transform.localPosition = new Vector3(0f, 0f, 0f);
-<<<<<<< HEAD
-=======
     }
-
-    public void Hurt()
-    {
-        StartCoroutine (HurtRoutine());
-    }
-
-    IEnumerator HurtRoutine()
-    {
-        anim.SetBool("isHurt", true);
-        yield return new WaitForSeconds(0.5f);
-        anim.SetBool("isHurt", false);
->>>>>>> 64860cbb2631adeefaf15b18d31d7a08a7c8758d
-    }
-
     public void TakeDamage(int damage)
     {
         CurrentHp -= damage;
@@ -125,6 +110,6 @@ public class Player : MonoBehaviour
     }
     void Die()
     {
-        print("플레이어 사망");
+        GameManager.Instance.GameOver();
     }
 }
