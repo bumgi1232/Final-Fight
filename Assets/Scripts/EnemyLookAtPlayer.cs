@@ -26,11 +26,7 @@ public class EnemyLookAtPlayer : MonoBehaviour
         {
             sprite.flipX = true;
             enemy.attackBox.transform.localPosition = new Vector3(-0.9f, 0f, 0f);
-<<<<<<< HEAD
         }        
-=======
-        }
         
->>>>>>> 64860cbb2631adeefaf15b18d31d7a08a7c8758d
     }
 }

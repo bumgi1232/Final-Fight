@@ -5,7 +5,7 @@ public class TargetHealthUi : MonoBehaviour
 {
     public static TargetHealthUi Instance { get; private set; }
 
-    public GameObject targetPanel;
+    public GameObject targetSlider;
     public Slider healthSlider;
 
     private Transform currentTarget;
@@ -16,9 +16,9 @@ public class TargetHealthUi : MonoBehaviour
         if (Instance == null) Instance = this;
         else Destroy(gameObject);
 
-        if(targetPanel != null)
+        if(targetSlider != null)
         {
-            targetPanel.SetActive(false);
+            targetSlider.SetActive(false);
         }
     }
 
@@ -35,9 +35,9 @@ public class TargetHealthUi : MonoBehaviour
         currentTarget = target;
         enemy = enemyHealth;
 
-        if(targetPanel != null)
+        if(targetSlider != null)
         {
-            targetPanel.SetActive(true);
+            targetSlider.SetActive(true);
         }
 
         healthSlider.maxValue = enemyHealth.maxHp;
@@ -49,9 +49,9 @@ public class TargetHealthUi : MonoBehaviour
         currentTarget = null;
         enemy = null;
 
-        if(targetPanel != null)
+        if(targetSlider != null)
         {
-            targetPanel.SetActive(false);
+            targetSlider.SetActive(false);
         }
     }
 }
