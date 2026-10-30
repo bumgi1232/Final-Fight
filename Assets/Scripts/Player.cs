@@ -12,8 +12,8 @@ public class Player : MonoBehaviour
     public float speed = 5f;
     bool isAttacking = false;
     bool isHurt = false;
-    bool isDead = false;
-    private int maxHp = 10;
+    //bool isDead = false;
+    public int maxHp = 3;
     private int currentHp;
 
     public int CurrentHp
@@ -40,6 +40,11 @@ public class Player : MonoBehaviour
         rigid = GetComponent<Rigidbody2D>();
         anim = GetComponentInChildren<Animator>();
         sr = GetComponentInChildren<SpriteRenderer>();
+
+        if(GameManager.Instance != null)
+        {
+            GameManager.Instance.player = this;
+        }
     }
 
     private void Start()
@@ -110,6 +115,7 @@ public class Player : MonoBehaviour
     }
     void Die()
     {
+        anim.SetTrigger("isDead");
         GameManager.Instance.GameOver();
     }
 }

@@ -1,5 +1,6 @@
 using NUnit.Framework.Constraints;
 using System.Collections;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.AI;
 
@@ -12,19 +13,27 @@ public class Enemy : MonoBehaviour
     float attackInterval = 2f;
     public int maxHp = 10;
     public int CurrentHp { get; private set; }
+
+    public enum EnemyState
+    {
+        Idle,
+        move,
+        Attack,
+        Circling,
+    }
+    EnemyState curState = EnemyState.Idle;
     [SerializeField] Transform target;
     public GameObject attackBox;
     Animator anim;
     Rigidbody2D rigid;
     SpriteRenderer sprite;
     NavMeshAgent agent;
-
+    
     [Header("이동 및 공격 설정")]
-    public float attackRange = 1.2f;   // 이 거리보다 가까워지면 공격
+    public float attackRange = 3.0f;   // 이 거리보다 가까워지면 공격
     public float chaseRange = 8.0f;    // 이 거리 안에 들어오면 쫓아옴
 
-
-
+    
 
     private void Start()
     {
@@ -50,17 +59,33 @@ public class Enemy : MonoBehaviour
         {
             if (distanceToPlayer <= chaseRange && distanceToPlayer > attackRange && !isAttack)
             {
-                ChasePlayer();
+                curState = EnemyState.move;
             }
             else if (distanceToPlayer <= attackRange)
-            {                
-                StopAndAttack();                
+            {
+                curState = EnemyState.Attack;
             }
             else
             {
-                StopMoving();
+                curState = EnemyState.Idle;
             }
-        }        
+        }
+
+        switch (curState)
+        {
+            case EnemyState.Idle:
+                StopMoving();
+                break;
+            case EnemyState.move:
+                ChasePlayer();
+                break;
+            case EnemyState.Circling:
+                break;
+            case EnemyState.Attack:
+                StopAndAttack();
+                break;
+        }
+
     }
 
     public void TakeDamage(int damage)
@@ -102,17 +127,35 @@ public class Enemy : MonoBehaviour
 
     void ChasePlayer()
     {
-        agent.isStopped = false;
+        agent.isStopped = false;        
         agent.SetDestination(target.position);
         anim.SetBool("isWalking", true);
     }
     void StopAndAttack()
-    {
-        agent.isStopped = true;
-        anim.SetBool("isWalking", false);
+    {                
         if (attackTimer >= attackInterval)
+        {
+            agent.isStopped = true;
+            anim.SetBool("isWalking", false);
             StartCoroutine(AttackRoutine());
+        }
+        else
+        {            
+            if(target.position.y == transform.position.y)
+            {
+                agent.isStopped = true;
+                anim.SetBool("isWalking", false);
+            }
+            else
+            {
+                agent.isStopped = false;
+                anim.SetBool("isWalking", true);
+                Vector3 moveY = new Vector3(transform.position.x, target.position.y, transform.position.z);
+                agent.SetDestination(moveY);
+            }
+        }        
     }
+
     void StopMoving()
     {
         agent.isStopped = true;

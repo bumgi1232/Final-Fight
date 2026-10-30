@@ -1,5 +1,8 @@
+using System.Collections;
 using UnityEditor.Experimental.GraphView;
 using UnityEngine;
+using UnityEngine.InputSystem;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
@@ -8,7 +11,6 @@ public class GameManager : MonoBehaviour
     public int Score = 0;
     public bool isGameOver = false;
     public Player player;
-    public GameObject gameOverUi;
 
     private void Awake()
     {
@@ -23,9 +25,33 @@ public class GameManager : MonoBehaviour
         }
     }
 
+    private void Update()
+    {
+        if(Keyboard.current != null && Keyboard.current.rKey.wasPressedThisFrame && isGameOver)
+        {
+            RestartGame();           
+        }
+    }
+
     public void GameOver()
     {
         player.enabled = false;
-        gameOverUi.SetActive(true);
+        UIManager.Instance.ShowGameOverPanel();
+        StartCoroutine(GameOverAnimRoutine());        
+    }
+
+    IEnumerator GameOverAnimRoutine()
+    {
+        yield return new WaitForSeconds(2f);
+        Time.timeScale = 0f;
+        isGameOver = true;
+    }
+
+    void RestartGame()
+    {
+        player.enabled = true;
+        Time.timeScale = 1f;
+        player.CurrentHp = player.maxHp;
+        SceneManager.LoadScene(0);        
     }
 }

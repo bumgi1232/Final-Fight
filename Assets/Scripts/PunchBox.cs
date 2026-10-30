@@ -9,5 +9,10 @@ public class PunchBox : MonoBehaviour
             Enemy enemy = collision.GetComponent<Enemy>();
             enemy.TakeDamage(1);
         }
+        if(collision.CompareTag("Box"))
+        {
+            BoxCrush boxCrush = collision.GetComponent<BoxCrush>();
+            boxCrush.CrushBox();
+        }
     }
 }

@@ -203,9 +203,9 @@ MonoBehaviour:
   m_HandleRect: {fileID: 0}
   m_Direction: 0
   m_MinValue: 0
-  m_MaxValue: 1
+  m_MaxValue: 10
   m_WholeNumbers: 0
-  m_Value: 0
+  m_Value: 1
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -448,7 +448,7 @@ MonoBehaviour:
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 0
+  m_fontStyle: 1
   m_HorizontalAlignment: 1
   m_VerticalAlignment: 256
   m_textAlignment: 65535
@@ -800,7 +800,7 @@ Transform:
   m_GameObject: {fileID: 300206050}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.84, y: -2.76, z: 0}
+  m_LocalPosition: {x: 6.17, y: -2.76, z: 0}
   m_LocalScale: {x: 5, y: 5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -1005,6 +1005,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Player
   punchHitbox: {fileID: 1956646741}
   speed: 5
+  maxHp: 10
 --- !u!50 &405365298
 Rigidbody2D:
   serializedVersion: 5
@@ -2054,7 +2055,6 @@ MonoBehaviour:
   Score: 0
   isGameOver: 0
   player: {fileID: 405365297}
-  gameOverUi: {fileID: 273035941}
 --- !u!4 &1024770048
 Transform:
   m_ObjectHideFlags: 0
@@ -2729,9 +2729,10 @@ GameObject:
   - component: {fileID: 1879308545}
   - component: {fileID: 1879308544}
   - component: {fileID: 1879308543}
+  - component: {fileID: 1879308546}
   m_Layer: 0
-  m_Name: BackGround_4
-  m_TagString: Untagged
+  m_Name: Box
+  m_TagString: Box
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2856,6 +2857,20 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1879308546
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1879308542}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc676766d4a45284b93b18b766f2d852, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::BoxCrush
+  prefab: {fileID: 1210163393691321719, guid: 23892b1ed15ebb84598de92db541bf34, type: 3}
+  box: {fileID: 1879308542}
 --- !u!1 &1956646741
 GameObject:
   m_ObjectHideFlags: 0
@@ -3093,7 +3108,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: -1
+  m_SortingOrder: -1000
   m_MaskInteraction: 0
   m_Sprite: {fileID: 5760202260919997367, guid: c17598cf80a0cda4ba03e2f14d68ce63, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -3197,6 +3212,7 @@ GameObject:
   - component: {fileID: 2020606543}
   - component: {fileID: 2020606542}
   - component: {fileID: 2020606541}
+  - component: {fileID: 2020606545}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -3288,6 +3304,19 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!114 &2020606545
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2020606540}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29ae2c18256c3b74c8e976fb46dfa7bd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::UIManager
+  gameOverPanel: {fileID: 273035941}
 --- !u!1 &2119967145
 GameObject:
   m_ObjectHideFlags: 0
