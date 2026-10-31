@@ -9,32 +9,15 @@ public class Enemy : MonoBehaviour
     public bool isDead = false;
     bool isAttack = false;
     int blinkCount = 3;
-    float attackTimer = 0f;
-    float attackInterval = 2f;
     public int maxHp = 10;
     public int CurrentHp { get; private set; }
 
-    public enum EnemyState
-    {
-        Idle,
-        move,
-        Attack,
-        Circling,
-    }
-    EnemyState curState = EnemyState.Idle;
-    [SerializeField] Transform target;
     public GameObject attackBox;
     Animator anim;
     Rigidbody2D rigid;
     SpriteRenderer sprite;
     NavMeshAgent agent;
-    
-    [Header("이동 및 공격 설정")]
-    public float attackRange = 3.0f;   // 이 거리보다 가까워지면 공격
-    public float chaseRange = 8.0f;    // 이 거리 안에 들어오면 쫓아옴
-
-    
-
+        
     private void Start()
     {
         CurrentHp = maxHp;
@@ -51,40 +34,7 @@ public class Enemy : MonoBehaviour
     }
 
     private void Update()
-    {
-        float distanceToPlayer = Vector2.Distance(transform.position, target.position);
-        attackTimer += Time.deltaTime;
-
-        if(!isDead)
-        {
-            if (distanceToPlayer <= chaseRange && distanceToPlayer > attackRange && !isAttack)
-            {
-                curState = EnemyState.move;
-            }
-            else if (distanceToPlayer <= attackRange)
-            {
-                curState = EnemyState.Attack;
-            }
-            else
-            {
-                curState = EnemyState.Idle;
-            }
-        }
-
-        switch (curState)
-        {
-            case EnemyState.Idle:
-                StopMoving();
-                break;
-            case EnemyState.move:
-                ChasePlayer();
-                break;
-            case EnemyState.Circling:
-                break;
-            case EnemyState.Attack:
-                StopAndAttack();
-                break;
-        }
+    {                
 
     }
 
@@ -93,7 +43,6 @@ public class Enemy : MonoBehaviour
         if (isDead) return;
 
         CurrentHp -= damage;
-        attackTimer = 0;
 
         if(CurrentHp > 0)
         {
@@ -125,42 +74,23 @@ public class Enemy : MonoBehaviour
         StartCoroutine(BlinkAndDieRoutine());
     }
 
-    void ChasePlayer()
+    public void MoveToWithNav(Vector3 destination)
     {
         agent.isStopped = false;        
-        agent.SetDestination(target.position);
+        agent.SetDestination(destination);
         anim.SetBool("isWalking", true);
     }
-    void StopAndAttack()
-    {                
-        if (attackTimer >= attackInterval)
-        {
-            agent.isStopped = true;
-            anim.SetBool("isWalking", false);
-            StartCoroutine(AttackRoutine());
-        }
-        else
-        {            
-            if(target.position.y == transform.position.y)
-            {
-                agent.isStopped = true;
-                anim.SetBool("isWalking", false);
-            }
-            else
-            {
-                agent.isStopped = false;
-                anim.SetBool("isWalking", true);
-                Vector3 moveY = new Vector3(transform.position.x, target.position.y, transform.position.z);
-                agent.SetDestination(moveY);
-            }
-        }        
-    }
-
-    void StopMoving()
+    public void Stop()
     {
         agent.isStopped = true;
-        anim.SetBool("isWalking", false);
+        anim.SetBool("isWalking", false);              
     }
+
+    public void Attack()
+    {
+        StartCoroutine(AttackRoutine());
+    }
+
 
     IEnumerator AttackRoutine()
     {
@@ -173,7 +103,6 @@ public class Enemy : MonoBehaviour
         attackBox.SetActive(false);
         anim.SetBool("isAttack", false);
         isAttack = false;
-        attackTimer = 0f;
     }
 
     IEnumerator BlinkAndDieRoutine()
@@ -201,5 +130,6 @@ public class Enemy : MonoBehaviour
         }
     }
 
-   
+    
+    
 }

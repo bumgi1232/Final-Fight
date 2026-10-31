@@ -13,7 +13,7 @@ public class Player : MonoBehaviour
     bool isAttacking = false;
     bool isHurt = false;
     //bool isDead = false;
-    public int maxHp = 3;
+    public int maxHp = 5;
     private int currentHp;
 
     public int CurrentHp

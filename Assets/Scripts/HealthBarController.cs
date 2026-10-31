@@ -12,7 +12,7 @@ public class HealthBarController : MonoBehaviour
 
     private void Start()
     {
-        healthSlider.maxValue = 10;
+        healthSlider.maxValue = GameManager.Instance.player.maxHp;
     }
 
     private void Update()
