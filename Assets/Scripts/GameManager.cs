@@ -50,8 +50,9 @@ public class GameManager : MonoBehaviour
     void RestartGame()
     {
         player.enabled = true;
+        isGameOver = false;
         Time.timeScale = 1f;
         player.CurrentHp = player.maxHp;
-        SceneManager.LoadScene(0);        
+        SceneManager.LoadScene("InGameScene");        
     }
 }

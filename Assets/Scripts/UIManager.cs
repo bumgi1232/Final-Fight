@@ -8,6 +8,7 @@ public class UIManager : MonoBehaviour
 
     [Header("UI 컴포넌트 연결")]
     public GameObject gameOverPanel;
+    public GameObject gameClearPanel;
 
     private void Awake()
     {
@@ -18,7 +19,9 @@ public class UIManager : MonoBehaviour
         else
         {
             Destroy(gameObject);
+            return;
         }
+        DontDestroyOnLoad(gameObject);
     }
 
     public void ShowGameOverPanel()
@@ -26,6 +29,14 @@ public class UIManager : MonoBehaviour
         if(gameOverPanel != null)
         {
             gameOverPanel.SetActive(true);
+        }
+    }
+
+    public void ShowGameClearPanel()
+    {
+        if (gameClearPanel != null)
+        {
+            gameClearPanel.SetActive(true);
         }
     }
 }

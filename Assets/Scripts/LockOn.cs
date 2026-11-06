@@ -1,13 +1,14 @@
 using UnityEngine;
 
 public class LockOn : MonoBehaviour
-{ 
+{
+    public TargetHealthUi targetHealthUI;
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if(collision.gameObject.CompareTag("Player"))
         {
-            TargetHealthUi.Instance.ShowTargetUI();
+            targetHealthUI.ShowTargetUI();
         }
     }
 
@@ -15,7 +16,7 @@ public class LockOn : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
         {
-            TargetHealthUi.Instance.HideTargetUI();
+            targetHealthUI.HideTargetUI();
         }
     }
 }

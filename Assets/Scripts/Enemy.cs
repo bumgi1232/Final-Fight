@@ -10,6 +10,7 @@ public class Enemy : MonoBehaviour
     bool isAttack = false;
     int blinkCount = 3;
     public int maxHp = 10;
+    public bool isBoss;
     public int CurrentHp { get; private set; }
 
     public GameObject attackBox;
@@ -17,7 +18,11 @@ public class Enemy : MonoBehaviour
     Rigidbody2D rigid;
     SpriteRenderer sprite;
     NavMeshAgent agent;
-        
+
+    public CountEnemy countEnemy;
+    public Stage2 stage2;
+    public TargetHealthUi targetHealthUi;
+
     private void Start()
     {
         CurrentHp = maxHp;
@@ -51,9 +56,13 @@ public class Enemy : MonoBehaviour
         else
         {
             Die();
+            targetHealthUi.HideTargetUI();
+            if(!isBoss)
+                countEnemy.RemoveEnemy();
+            if (isBoss)
+                stage2.RemoveEnemy();
         }
     }
-
     
 
     IEnumerator hurtRoutine()
@@ -68,14 +77,14 @@ public class Enemy : MonoBehaviour
 
     void Die()
     {
-        isDead = true;
-        TargetHealthUi.Instance.HideTargetUI();
+        isDead = true;        
         anim.SetTrigger("isDead");
         StartCoroutine(BlinkAndDieRoutine());
     }
 
     public void MoveToWithNav(Vector3 destination)
     {
+        if (isDead) return;
         agent.isStopped = false;        
         agent.SetDestination(destination);
         anim.SetBool("isWalking", true);
@@ -88,6 +97,8 @@ public class Enemy : MonoBehaviour
 
     public void Attack()
     {
+        if (isDead) return;
+        agent.isStopped = true;
         StartCoroutine(AttackRoutine());
     }
 
@@ -96,11 +107,13 @@ public class Enemy : MonoBehaviour
     {
         if (isAttack) yield break;
         isAttack = true;       
+        anim.SetBool("isWalking", false);
         anim.SetBool("isAttack", true);
         yield return new WaitForSeconds(0.3f);
         attackBox.SetActive(true);
-        yield return new WaitForSeconds(1f);
+        yield return new WaitForSeconds(0.3f);
         attackBox.SetActive(false);
+        yield return new WaitForSeconds(0.7f);
         anim.SetBool("isAttack", false);
         isAttack = false;
     }
@@ -130,6 +143,12 @@ public class Enemy : MonoBehaviour
         }
     }
 
-    
+    public void BackStep(Vector3 destination)
+    {
+        if (isDead) return;
+        anim.SetBool("isWalking", true);
+        agent.isStopped = false;
+        agent.SetDestination(destination);
+    }
     
 }

@@ -12,7 +12,6 @@ public class Player : MonoBehaviour
     public float speed = 5f;
     bool isAttacking = false;
     bool isHurt = false;
-    //bool isDead = false;
     public int maxHp = 5;
     private int currentHp;
 
@@ -76,8 +75,9 @@ public class Player : MonoBehaviour
     void OnPunch()
     {
         if (!isAttacking)
-        {
-            StartCoroutine(PunchRoutine());
+        {            
+             StartCoroutine(PunchRoutine());
+            
         }
     }
     
@@ -91,6 +91,7 @@ public class Player : MonoBehaviour
         isAttacking = false;
         punchHitbox.SetActive(false);
     }
+
 
     void Flip()
     {
