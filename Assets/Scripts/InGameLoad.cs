@@ -13,11 +13,12 @@ public class InGameLoad : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        /*
         InputSystem.onAnyButtonPress.CallOnce(ctrl =>
         {
             //Debug.Log($"눌린 버튼{ctrl.name}");
             StartCoroutine(FadeRoutine());
-        });
+        });*/
     }
 
     IEnumerator FadeRoutine()

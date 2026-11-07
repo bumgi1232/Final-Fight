@@ -17,7 +17,7 @@ MonoBehaviour:
     m_Value1: 1329153476007949914
   m_Variables:
   - rid: 6489203983823143663
-  m_VersionTimestamp: 639290608621659612
+  m_VersionTimestamp: 639296661029729356
   m_CommandBuffer:
     m_Commands: []
   m_RuntimeBlackboardAsset: {fileID: 2968947645343628541}
@@ -32,7 +32,7 @@ MonoBehaviour:
           m_Value1: 14844397025114698171
         Name: targetTransform
         IsExposed: 1
-        m_IsShared: 0
+        m_IsShared: 1
         m_Value: {fileID: 0}
 --- !u!114 &2968947645343628541
 MonoBehaviour:
@@ -46,14 +46,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5c02bb70996b49eba31d0c206e28da24, type: 3}
   m_Name: MyBlackboard
   m_EditorClassIdentifier: Unity.Behavior::Unity.Behavior.RuntimeBlackboardAsset
-  VersionTimestamp: 639290608621659612
+  VersionTimestamp: 639296661029729356
   AssetID:
     m_Value0: 9513927716214478174
     m_Value1: 1329153476007949914
   m_Blackboard:
     m_Variables:
     - rid: 6489203983823143664
-  m_SharedBlackboardVariableGuids: []
+  m_SharedBlackboardVariableGuids:
+  - m_Value0: 11251157455533852531
+    m_Value1: 14844397025114698171
   references:
     version: 2
     RefIds:

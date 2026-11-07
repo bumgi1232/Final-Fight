@@ -13,15 +13,15 @@ public partial class BackStepAction : Action
     int rand;
     
     Vector3 backDir;
-    float speed = 8f;
     float duration = 1.5f;
     float timer;
+    bool isback = false;
+    float speed = 5f;
 
     protected override Status OnStart()
     {
         rand = UnityEngine.Random.Range(0, 2);
-        Vector3 direction = (GameObject.transform.position - targetTransform.Value.position);
-        Debug.Log(rand);
+        Vector3 direction = GameObject.transform.position - targetTransform.Value.position;
         direction.z = 0f;
         backDir = direction.normalized;
         return Status.Running;
@@ -31,19 +31,21 @@ public partial class BackStepAction : Action
     {
         timer += Time.deltaTime;
         
-        if(rand == 0)
+        if(rand == 0 && !isback)
         {
             if (timer >= duration)
             {
                 timer = 0;
+                isback = true;
                 return Status.Success;
             }
 
-            GameObject.GetComponent<Enemy>().BackStep(backDir * speed);
+            GameObject.GetComponent<Enemy>().BackStep(GameObject.transform.position+backDir * speed);
             return Status.Running;
         }
         else
         {
+            isback = false;
             return Status.Failure;
         }
     }

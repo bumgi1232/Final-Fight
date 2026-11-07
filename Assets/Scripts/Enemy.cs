@@ -22,6 +22,7 @@ public class Enemy : MonoBehaviour
     public CountEnemy countEnemy;
     public Stage2 stage2;
     public TargetHealthUi targetHealthUi;
+    public BossSpawner bossSpawner;
 
     private void Start()
     {
@@ -57,8 +58,13 @@ public class Enemy : MonoBehaviour
         {
             Die();
             targetHealthUi.HideTargetUI();
-            if(!isBoss)
+            if (!isBoss)
+            {
+                bossSpawner.SpawnBoss();
                 countEnemy.RemoveEnemy();
+            }
+                
+
             if (isBoss)
                 stage2.RemoveEnemy();
         }
@@ -146,9 +152,19 @@ public class Enemy : MonoBehaviour
     public void BackStep(Vector3 destination)
     {
         if (isDead) return;
+        anim.SetBool("isRush", false);
         anim.SetBool("isWalking", true);
         agent.isStopped = false;
+        agent.speed = 2f;
         agent.SetDestination(destination);
     }
-    
+
+    public void Rush(Vector3 destination)
+    {
+        if (isDead) return;
+        agent.isStopped = false;
+        agent.speed = 6.0f;
+        agent.SetDestination(destination);
+        anim.SetBool("isRush", true);
+    }
 }
