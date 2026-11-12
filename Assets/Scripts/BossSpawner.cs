@@ -1,4 +1,5 @@
 using UnityEngine;
+using Unity.Behavior;
 
 public class BossSpawner : MonoBehaviour
 {
@@ -10,9 +11,10 @@ public class BossSpawner : MonoBehaviour
         GameObject BossInstance = Instantiate(BossPrefab);
         EnemyLookAtPlayer enemyLookAtPlayer = BossInstance.GetComponent<EnemyLookAtPlayer>();
         Enemy enemy = BossInstance.GetComponent<Enemy>();
+        BehaviorGraphAgent agent = BossInstance.GetComponent<BehaviorGraphAgent>();
         enemyLookAtPlayer.playerTransform = PlayerTransform;
         enemy.stage2 = stage;
-
+        agent.SetVariableValue("targetTransform", PlayerTransform);
     }
 
 }

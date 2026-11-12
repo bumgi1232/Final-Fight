@@ -1,6 +1,10 @@
+using System.Collections;
+using System.Collections.Generic;
 using System.Security.Cryptography.X509Certificates;
+using TMPro;
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class UIManager : MonoBehaviour
 {
@@ -9,6 +13,10 @@ public class UIManager : MonoBehaviour
     [Header("UI 컴포넌트 연결")]
     public GameObject gameOverPanel;
     public GameObject gameClearPanel;
+    public TextMeshProUGUI countdownText;
+    public TextMeshProUGUI insertCoin;
+
+    public int countdownSeconds = 10;
 
     private void Awake()
     {
@@ -28,8 +36,17 @@ public class UIManager : MonoBehaviour
         if(gameOverPanel != null)
         {
             gameOverPanel.SetActive(true);
+            StartCoroutine(CountdownRoutine());
         }
     }
+    public void HideGameOverPanel()
+    {
+        if (gameOverPanel != null)
+        {
+            gameOverPanel.SetActive(false);
+        }
+    }
+
 
     public void ShowGameClearPanel()
     {
@@ -38,4 +55,23 @@ public class UIManager : MonoBehaviour
             gameClearPanel.SetActive(true);
         }
     }
+
+    public IEnumerator CountdownRoutine()
+    {
+        int count = countdownSeconds;
+        while (count > 0)
+        {
+            if (countdownText != null)
+            {
+                countdownText.text = count.ToString();
+            }
+
+            yield return new WaitForSecondsRealtime(1f);
+
+            count--;
+        }
+
+        countdownText.text = "0";
+    }
+
 }

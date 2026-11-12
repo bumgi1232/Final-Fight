@@ -42,19 +42,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 922356654606376098, guid: 935afe895a3672e43b5093b4a4d5b46f, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1171434558417009120, guid: 935afe895a3672e43b5093b4a4d5b46f, type: 3}
       propertyPath: m_Size.x
-      value: 0.43040276
+      value: 0.6450233
       objectReference: {fileID: 0}
     - target: {fileID: 1171434558417009120, guid: 935afe895a3672e43b5093b4a4d5b46f, type: 3}
       propertyPath: m_Size.y
-      value: 0.48089933
+      value: 0.54470545
+      objectReference: {fileID: 0}
+    - target: {fileID: 1171434558417009120, guid: 935afe895a3672e43b5093b4a4d5b46f, type: 3}
+      propertyPath: m_Offset.x
+      value: 0.4528984
       objectReference: {fileID: 0}
     - target: {fileID: 1171434558417009120, guid: 935afe895a3672e43b5093b4a4d5b46f, type: 3}
       propertyPath: m_Offset.y
-      value: 0.59755325
+      value: 0.5656502
       objectReference: {fileID: 0}
     - target: {fileID: 2692894750665063425, guid: 935afe895a3672e43b5093b4a4d5b46f, type: 3}
       propertyPath: m_Sprite

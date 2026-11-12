@@ -4,6 +4,7 @@ using UnityEngine;
 public class PlayerJump : MonoBehaviour
 {
     public Transform visualSprite;
+    public GameObject kickCollider;
 
     public float jumpForce = 8f;
     public float gravity = -15f;
@@ -21,7 +22,7 @@ public class PlayerJump : MonoBehaviour
 
     private void Update()
     {
-        if (isJumping)
+        if (isJumping && !GameManager.Instance.isGameOver)
         {
             jumpVelocity += gravity * Time.deltaTime;
             jumpHeight += jumpVelocity * Time.deltaTime;
@@ -32,6 +33,7 @@ public class PlayerJump : MonoBehaviour
                 isJumping = false;
                 jumpVelocity = 0f;
 
+                kickCollider.SetActive(false);
                 anim.SetBool("isJumping", false);
             }
 
@@ -44,10 +46,23 @@ public class PlayerJump : MonoBehaviour
 
     void OnJump()
     {
-        if(!isJumping)
+        if(!isJumping && !GameManager.Instance.isGameOver)
         {
             isJumping = true;
             jumpVelocity = jumpForce;
+            kickCollider.SetActive(true);
+
+            anim.SetBool("isJumping", true);
+        }
+    }
+
+    public void RestartJump()
+    {
+        if (!isJumping)
+        {
+            isJumping = true;
+            jumpVelocity = jumpForce;
+            kickCollider.SetActive(true);
 
             anim.SetBool("isJumping", true);
         }
