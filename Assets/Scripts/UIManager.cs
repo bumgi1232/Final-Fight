@@ -11,12 +11,14 @@ public class UIManager : MonoBehaviour
     public static UIManager Instance;
 
     [Header("UI 컴포넌트 연결")]
-    public GameObject gameOverPanel;
+    public GameObject CountDownPanel;
     public GameObject gameClearPanel;
+    public GameObject gameOverpanel;
     public TextMeshProUGUI countdownText;
     public TextMeshProUGUI insertCoin;
 
     public int countdownSeconds = 10;
+    public Coroutine currentCountdownRoutine;
 
     private void Awake()
     {
@@ -33,17 +35,18 @@ public class UIManager : MonoBehaviour
 
     public void ShowGameOverPanel()
     {
-        if(gameOverPanel != null)
+        if(currentCountdownRoutine != null)
         {
-            gameOverPanel.SetActive(true);
-            StartCoroutine(CountdownRoutine());
+            StopCoroutine(currentCountdownRoutine);
         }
+
+        currentCountdownRoutine = StartCoroutine(CountdownRoutine());
     }
     public void HideGameOverPanel()
     {
-        if (gameOverPanel != null)
+        if (CountDownPanel != null)
         {
-            gameOverPanel.SetActive(false);
+            CountDownPanel.SetActive(false);
         }
     }
 
@@ -58,6 +61,8 @@ public class UIManager : MonoBehaviour
 
     public IEnumerator CountdownRoutine()
     {
+        CountDownPanel.SetActive(true);
+
         int count = countdownSeconds;
         while (count > 0)
         {
@@ -72,6 +77,7 @@ public class UIManager : MonoBehaviour
         }
 
         countdownText.text = "0";
+        gameOverpanel.SetActive(true);
     }
 
 }

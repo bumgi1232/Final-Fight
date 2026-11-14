@@ -11,6 +11,7 @@ public class GameManager : MonoBehaviour
     public Player player;
     public PlayerJump jump;
     private int coin = 0;
+    private bool isKeyDown = false;
     private void Awake()
     {
         if(Instance == null)
@@ -30,9 +31,11 @@ public class GameManager : MonoBehaviour
         {
             UIManager.Instance.insertCoin.text = $"INSERT COIN: {coin}";
 
-            if (Keyboard.current.cKey.wasPressedThisFrame)
+            if (Keyboard.current.cKey.wasPressedThisFrame && !isKeyDown)
             {
-                coin++;                                              
+                coin++;
+                isKeyDown = true;
+                StopCoroutine(UIManager.Instance.currentCountdownRoutine);
                 StartCoroutine(RestartGameRoutine());                
             }
         }
@@ -57,6 +60,7 @@ public class GameManager : MonoBehaviour
     {
         player.enabled = true;
         isGameOver = false;
+        isKeyDown = false;
         Time.timeScale = 1f;
         coin--;
         player.CurrentHp = player.maxHp;

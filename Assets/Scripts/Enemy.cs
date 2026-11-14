@@ -83,7 +83,8 @@ public class Enemy : MonoBehaviour
 
     void Die()
     {
-        isDead = true;        
+        isDead = true;
+        agent.isStopped = true;
         anim.SetTrigger("isDead");
         StartCoroutine(BlinkAndDieRoutine());
     }
